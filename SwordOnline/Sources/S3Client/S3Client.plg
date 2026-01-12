@@ -1,0 +1,950 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Bishop - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+Bishop.exe - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: Common - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+Common.lib - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: Core - Win32 Server Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\dung_\AppData\Local\Temp\RSP56DB.tmp" with contents
+[
+/nologo /MT /W2 /GX /O2 /I "..\engine\src" /I "..\engine\include" /I "..\Network" /I "..\..\Headers" /D "NDEBUG" /D "_SERVER" /D "WIN32" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "CORE_EXPORTS" /FR"ServerRelease/" /Fp"ServerRelease/Core.pch" /Yu"KCore.h" /Fo"ServerRelease/" /Fd"ServerRelease/" /FD /c 
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPartnerSkill.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerPartner.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KThiefSkill.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KMissle.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KMissleRes.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KMissleSet.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSkillList.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSkillManager.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSkills.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSkillSpecial.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\Skill.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KFaction.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KGameData.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpc.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcAI.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcAttribModify.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcDeathCalcExp.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcFindPath.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcRes.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcResList.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcResNode.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcSet.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcTemplate.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayer.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerAI.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerChat.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerChatRoom.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerDBFuns.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerFaction.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerMenuState.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerPK.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerSet.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerTask.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerTeam.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerTong.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerTrade.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSprControl.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KTongData.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KBasPropTbl.CPP"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KBuySell.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KInventory.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KItem.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KItemChangeRes.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KItemGenerator.CPP"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KItemList.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KItemSet.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KObj.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KObjSet.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSellItem.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KViewItem.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KCore.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSubWorld.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSubWorldSet.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KWeatherMgr.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KRegion.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KWorldMsg.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KMath.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KGMProcess.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNewProtocolProcess.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KProtocol.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KProtocolProcess.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\ScriptFuns.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KScriptValueSet.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSortScript.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\src\CoreServerShell.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\Scene\KWeather.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KMagicDesc.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KGMCommand.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KMission.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KTaskFuns.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KOption.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KMapMusic.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KLadder.cpp"
+]
+Creating command line "cl.exe @C:\Users\dung_\AppData\Local\Temp\RSP56DB.tmp" 
+Creating temporary file "C:\Users\dung_\AppData\Local\Temp\RSP56DC.tmp" with contents
+[
+/nologo /MT /W2 /GX /O2 /I "..\engine\src" /I "..\engine\include" /I "..\Network" /I "..\..\Headers" /D "NDEBUG" /D "_SERVER" /D "WIN32" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "CORE_EXPORTS" /FR"ServerRelease/" /Fp"ServerRelease/Core.pch" /Yc"KCore.h" /Fo"ServerRelease/" /Fd"ServerRelease/" /FD /c 
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\stdafx.cpp"
+]
+Creating command line "cl.exe @C:\Users\dung_\AppData\Local\Temp\RSP56DC.tmp" 
+Creating temporary file "C:\Users\dung_\AppData\Local\Temp\RSP56DD.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib lualibdll.lib Ws2_32.lib Winmm.lib Shlwapi.lib /nologo /dll /incremental:no /pdb:"ServerRelease/CoreServer.pdb" /map:"ServerRelease/CoreServer.map" /debug /machine:I386 /out:"ServerRelease\CoreServer.dll" /implib:"ServerRelease/CoreServer.lib" 
+".\ServerRelease\KPartnerSkill.obj"
+".\ServerRelease\KPlayerPartner.obj"
+".\ServerRelease\KThiefSkill.obj"
+".\ServerRelease\KMissle.obj"
+".\ServerRelease\KMissleRes.obj"
+".\ServerRelease\KMissleSet.obj"
+".\ServerRelease\KSkillList.obj"
+".\ServerRelease\KSkillManager.obj"
+".\ServerRelease\KSkills.obj"
+".\ServerRelease\KSkillSpecial.obj"
+".\ServerRelease\Skill.obj"
+".\ServerRelease\KFaction.obj"
+".\ServerRelease\KGameData.obj"
+".\ServerRelease\KNpc.obj"
+".\ServerRelease\KNpcAI.obj"
+".\ServerRelease\KNpcAttribModify.obj"
+".\ServerRelease\KNpcDeathCalcExp.obj"
+".\ServerRelease\KNpcFindPath.obj"
+".\ServerRelease\KNpcRes.obj"
+".\ServerRelease\KNpcResList.obj"
+".\ServerRelease\KNpcResNode.obj"
+".\ServerRelease\KNpcSet.obj"
+".\ServerRelease\KNpcTemplate.obj"
+".\ServerRelease\KPlayer.obj"
+".\ServerRelease\KPlayerAI.obj"
+".\ServerRelease\KPlayerChat.obj"
+".\ServerRelease\KPlayerChatRoom.obj"
+".\ServerRelease\KPlayerDBFuns.obj"
+".\ServerRelease\KPlayerFaction.obj"
+".\ServerRelease\KPlayerMenuState.obj"
+".\ServerRelease\KPlayerPK.obj"
+".\ServerRelease\KPlayerSet.obj"
+".\ServerRelease\KPlayerTask.obj"
+".\ServerRelease\KPlayerTeam.obj"
+".\ServerRelease\KPlayerTong.obj"
+".\ServerRelease\KPlayerTrade.obj"
+".\ServerRelease\KSprControl.obj"
+".\ServerRelease\KTongData.obj"
+".\ServerRelease\KBasPropTbl.obj"
+".\ServerRelease\KBuySell.obj"
+".\ServerRelease\KInventory.obj"
+".\ServerRelease\KItem.obj"
+".\ServerRelease\KItemChangeRes.obj"
+".\ServerRelease\KItemGenerator.obj"
+".\ServerRelease\KItemList.obj"
+".\ServerRelease\KItemSet.obj"
+".\ServerRelease\KObj.obj"
+".\ServerRelease\KObjSet.obj"
+".\ServerRelease\KSellItem.obj"
+".\ServerRelease\KViewItem.obj"
+".\ServerRelease\KCore.obj"
+".\ServerRelease\KSubWorld.obj"
+".\ServerRelease\KSubWorldSet.obj"
+".\ServerRelease\KWeatherMgr.obj"
+".\ServerRelease\KRegion.obj"
+".\ServerRelease\KWorldMsg.obj"
+".\ServerRelease\KMath.obj"
+".\ServerRelease\KGMProcess.obj"
+".\ServerRelease\KNewProtocolProcess.obj"
+".\ServerRelease\KProtocol.obj"
+".\ServerRelease\KProtocolProcess.obj"
+".\ServerRelease\ScriptFuns.obj"
+".\ServerRelease\KScriptValueSet.obj"
+".\ServerRelease\KSortScript.obj"
+".\ServerRelease\CoreServerShell.obj"
+".\ServerRelease\KWeather.obj"
+".\ServerRelease\KMagicDesc.obj"
+".\ServerRelease\KGMCommand.obj"
+".\ServerRelease\KMission.obj"
+".\ServerRelease\KTaskFuns.obj"
+".\ServerRelease\KOption.obj"
+".\ServerRelease\KMapMusic.obj"
+".\ServerRelease\KLadder.obj"
+".\ServerRelease\stdafx.obj"
+"..\..\Lib\release\engine.lib"
+"..\..\Lib\release\common.lib"
+".\Src\USBKey\EP1KDL20.LIB"
+".\Src\USBKey\EpsForJoLib.lib"
+]
+Creating command line "link.exe @C:\Users\dung_\AppData\Local\Temp\RSP56DD.tmp"
+<h3>Output Window</h3>
+Compiling...
+stdafx.cpp
+Compiling...
+KPartnerSkill.cpp
+KPlayerPartner.cpp
+KThiefSkill.cpp
+KMissle.cpp
+KMissleRes.cpp
+KMissleSet.cpp
+KSkillList.cpp
+KSkillManager.cpp
+KSkills.cpp
+KSkillSpecial.cpp
+Skill.cpp
+KFaction.cpp
+KGameData.cpp
+KNpc.cpp
+KNpcAI.cpp
+KNpcAttribModify.cpp
+KNpcDeathCalcExp.cpp
+KNpcFindPath.cpp
+KNpcRes.cpp
+KNpcResList.cpp
+Generating Code...
+Compiling...
+KNpcResNode.cpp
+KNpcSet.cpp
+KNpcTemplate.cpp
+KPlayer.cpp
+KPlayerAI.cpp
+KPlayerChat.cpp
+KPlayerChatRoom.cpp
+KPlayerDBFuns.cpp
+KPlayerFaction.cpp
+KPlayerMenuState.cpp
+KPlayerPK.cpp
+KPlayerSet.cpp
+KPlayerTask.cpp
+KPlayerTeam.cpp
+KPlayerTong.cpp
+KPlayerTrade.cpp
+KSprControl.cpp
+KTongData.cpp
+KBasPropTbl.CPP
+KBuySell.cpp
+Generating Code...
+Compiling...
+KInventory.cpp
+KItem.cpp
+KItemChangeRes.cpp
+KItemGenerator.CPP
+KItemList.cpp
+KItemSet.cpp
+KObj.cpp
+KObjSet.cpp
+KSellItem.cpp
+KViewItem.cpp
+KCore.cpp
+KSubWorld.cpp
+KSubWorldSet.cpp
+KWeatherMgr.cpp
+KRegion.cpp
+KWorldMsg.cpp
+KMath.cpp
+KGMProcess.cpp
+KNewProtocolProcess.cpp
+KProtocol.cpp
+Generating Code...
+Compiling...
+KProtocolProcess.cpp
+ScriptFuns.cpp
+KScriptValueSet.cpp
+KSortScript.cpp
+CoreServerShell.cpp
+KWeather.cpp
+KMagicDesc.cpp
+KGMCommand.cpp
+KMission.cpp
+KTaskFuns.cpp
+KOption.cpp
+KMapMusic.cpp
+KLadder.cpp
+Generating Code...
+Linking...
+   Creating library ServerRelease/CoreServer.lib and object ServerRelease/CoreServer.exp
+ServerRelease\CoreServer.dll : warning LNK4084: total image size 716824576 exceeds max (268435456); image may not run
+Creating temporary file "C:\Users\dung_\AppData\Local\Temp\RSP61EA.bat" with contents
+[
+@echo off
+md ..\..\..\bin\server\release
+md ..\..\lib\release
+copy ServerRelease\CoreServer.map ..\..\..\bin\server\Coreserver.map
+copy ServerRelease\CoreServer.pdb ..\..\..\bin\server\Coreserver.pdb
+copy ServerRelease\CoreServer.dll ..\..\..\bin\server\Coreserver.dll
+copy ServerRelease\CoreServer.map ..\..\..\bin\server\release\Coreserver.map
+copy ServerRelease\CoreServer.pdb ..\..\..\bin\server\release\Coreserver.pdb
+copy ServerRelease\CoreServer.dll ..\..\..\bin\server\release\Coreserver.dll
+copy ServerRelease\CoreServer.lib ..\..\lib\release\CoreServer.lib
+]
+Creating command line "C:\Users\dung_\AppData\Local\Temp\RSP61EA.bat"
+
+A subdirectory or file ..\..\..\bin\server\release already exists.
+A subdirectory or file ..\..\lib\release already exists.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+
+
+
+<h3>Results</h3>
+CoreServer.dll - 0 error(s), 1 warning(s)
+<h3>
+--------------------Configuration: Core - Win32 Client Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\dung_\AppData\Local\Temp\RSP63EF.tmp" with contents
+[
+/nologo /MD /W2 /GX /Zi /O2 /I "..\engine\src" /I "..\engine\include" /I "..\Network" /I "..\..\Headers" /I "src" /D "NDEBUG" /D "WIN32" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "CORE_EXPORTS" /FR"ClientRelease/" /Fp"ClientRelease/Core.pch" /Yu"KCore.h" /Fo"ClientRelease/" /Fd"ClientRelease/" /FD /c 
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPartnerSkill.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerPartner.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KThiefSkill.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KMissleRes.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KMissleSet.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSkillList.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSkillManager.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSkills.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSkillSpecial.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\Skill.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KFaction.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KGameData.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpc.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcAI.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcAttribModify.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcDeathCalcExp.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcFindPath.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcRes.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcResList.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcResNode.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcSet.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KNpcTemplate.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayer.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerAI.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerChat.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerChatRoom.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerDBFuns.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerFaction.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerMenuState.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerPK.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerSet.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerTask.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerTeam.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerTong.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KPlayerTrade.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSprControl.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KTongData.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KBasPropTbl.CPP"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KBuySell.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KInventory.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KItem.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KItemChangeRes.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KItemGenerator.CPP"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KItemList.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KItemSet.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KObj.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KObjSet.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSellItem.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KViewItem.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KCore.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSubWorld.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSubWorldSet.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KWeatherMgr.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KRegion.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KWorldMsg.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KMath.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KProtocol.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KProtocolProcess.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\ScriptFuns.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KScriptValueSet.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KSortScript.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\CoreShell.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\Scene\KIpotBranch.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\Scene\KIpotLeaf.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\Scene\KScenePlaceC.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\Scene\KScenePlaceRegionC.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\Scene\KWeather.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\Scene\SceneMath.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\Scene\ScenePlaceMapC.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\CoreDrawGameObj.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\ImgRef.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KMagicDesc.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KGMCommand.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KTaskFuns.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KOption.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KMapMusic.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KLadder.cpp"
+]
+Creating command line "cl.exe @C:\Users\dung_\AppData\Local\Temp\RSP63EF.tmp" 
+Creating temporary file "C:\Users\dung_\AppData\Local\Temp\RSP63F0.tmp" with contents
+[
+/nologo /MD /W2 /GX /Zi /O2 /I "..\engine\src" /I "..\engine\include" /I "..\Network" /I "..\..\Headers" /I "src" /D "NDEBUG" /D "WIN32" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "CORE_EXPORTS" /FAs /Fa"ClientRelease/" /FR"ClientRelease/" /Fp"ClientRelease/Core.pch" /Yu"KCore.h" /Fo"ClientRelease/" /Fd"ClientRelease/" /FD /c 
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\KMissle.cpp"
+]
+Creating command line "cl.exe @C:\Users\dung_\AppData\Local\Temp\RSP63F0.tmp" 
+Creating temporary file "C:\Users\dung_\AppData\Local\Temp\RSP63F1.tmp" with contents
+[
+/nologo /MD /W2 /GX /Zi /O2 /I "..\engine\src" /I "..\engine\include" /I "..\Network" /I "..\..\Headers" /I "src" /D "NDEBUG" /D "WIN32" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "CORE_EXPORTS" /FAs /Fa"ClientRelease/" /FR"ClientRelease/" /Fo"ClientRelease/" /Fd"ClientRelease/" /FD /c 
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\Scene\KIpoTree.cpp"
+]
+Creating command line "cl.exe @C:\Users\dung_\AppData\Local\Temp\RSP63F1.tmp" 
+Creating temporary file "C:\Users\dung_\AppData\Local\Temp\RSP63F2.tmp" with contents
+[
+/nologo /MD /W2 /GX /Zi /O2 /I "..\engine\src" /I "..\engine\include" /I "..\Network" /I "..\..\Headers" /I "src" /D "NDEBUG" /D "WIN32" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "CORE_EXPORTS" /FR"ClientRelease/" /Fp"ClientRelease/Core.pch" /Yc"KCore.h" /Fo"ClientRelease/" /Fd"ClientRelease/" /FD /c 
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Core\Src\stdafx.cpp"
+]
+Creating command line "cl.exe @C:\Users\dung_\AppData\Local\Temp\RSP63F2.tmp" 
+Creating temporary file "C:\Users\dung_\AppData\Local\Temp\RSP63F3.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib lualibdll.lib Shlwapi.lib Winmm.lib /nologo /dll /incremental:no /pdb:"ClientRelease/CoreClient.pdb" /map:"ClientRelease/CoreClient.map" /debug /machine:I386 /out:"ClientRelease\CoreClient.dll" /implib:"ClientRelease/CoreClient.lib" /libpath:"../../lib/" 
+".\ClientRelease\KPartnerSkill.obj"
+".\ClientRelease\KPlayerPartner.obj"
+".\ClientRelease\KThiefSkill.obj"
+".\ClientRelease\KMissle.obj"
+".\ClientRelease\KMissleRes.obj"
+".\ClientRelease\KMissleSet.obj"
+".\ClientRelease\KSkillList.obj"
+".\ClientRelease\KSkillManager.obj"
+".\ClientRelease\KSkills.obj"
+".\ClientRelease\KSkillSpecial.obj"
+".\ClientRelease\Skill.obj"
+".\ClientRelease\KFaction.obj"
+".\ClientRelease\KGameData.obj"
+".\ClientRelease\KNpc.obj"
+".\ClientRelease\KNpcAI.obj"
+".\ClientRelease\KNpcAttribModify.obj"
+".\ClientRelease\KNpcDeathCalcExp.obj"
+".\ClientRelease\KNpcFindPath.obj"
+".\ClientRelease\KNpcRes.obj"
+".\ClientRelease\KNpcResList.obj"
+".\ClientRelease\KNpcResNode.obj"
+".\ClientRelease\KNpcSet.obj"
+".\ClientRelease\KNpcTemplate.obj"
+".\ClientRelease\KPlayer.obj"
+".\ClientRelease\KPlayerAI.obj"
+".\ClientRelease\KPlayerChat.obj"
+".\ClientRelease\KPlayerChatRoom.obj"
+".\ClientRelease\KPlayerDBFuns.obj"
+".\ClientRelease\KPlayerFaction.obj"
+".\ClientRelease\KPlayerMenuState.obj"
+".\ClientRelease\KPlayerPK.obj"
+".\ClientRelease\KPlayerSet.obj"
+".\ClientRelease\KPlayerTask.obj"
+".\ClientRelease\KPlayerTeam.obj"
+".\ClientRelease\KPlayerTong.obj"
+".\ClientRelease\KPlayerTrade.obj"
+".\ClientRelease\KSprControl.obj"
+".\ClientRelease\KTongData.obj"
+".\ClientRelease\KBasPropTbl.obj"
+".\ClientRelease\KBuySell.obj"
+".\ClientRelease\KInventory.obj"
+".\ClientRelease\KItem.obj"
+".\ClientRelease\KItemChangeRes.obj"
+".\ClientRelease\KItemGenerator.obj"
+".\ClientRelease\KItemList.obj"
+".\ClientRelease\KItemSet.obj"
+".\ClientRelease\KObj.obj"
+".\ClientRelease\KObjSet.obj"
+".\ClientRelease\KSellItem.obj"
+".\ClientRelease\KViewItem.obj"
+".\ClientRelease\KCore.obj"
+".\ClientRelease\KSubWorld.obj"
+".\ClientRelease\KSubWorldSet.obj"
+".\ClientRelease\KWeatherMgr.obj"
+".\ClientRelease\KRegion.obj"
+".\ClientRelease\KWorldMsg.obj"
+".\ClientRelease\KMath.obj"
+".\ClientRelease\KProtocol.obj"
+".\ClientRelease\KProtocolProcess.obj"
+".\ClientRelease\ScriptFuns.obj"
+".\ClientRelease\KScriptValueSet.obj"
+".\ClientRelease\KSortScript.obj"
+".\ClientRelease\CoreShell.obj"
+".\ClientRelease\KIpotBranch.obj"
+".\ClientRelease\KIpotLeaf.obj"
+".\ClientRelease\KIpoTree.obj"
+".\ClientRelease\KScenePlaceC.obj"
+".\ClientRelease\KScenePlaceRegionC.obj"
+".\ClientRelease\KWeather.obj"
+".\ClientRelease\SceneMath.obj"
+".\ClientRelease\ScenePlaceMapC.obj"
+".\ClientRelease\CoreDrawGameObj.obj"
+".\ClientRelease\ImgRef.obj"
+".\ClientRelease\KMagicDesc.obj"
+".\ClientRelease\KGMCommand.obj"
+".\ClientRelease\KTaskFuns.obj"
+".\ClientRelease\KOption.obj"
+".\ClientRelease\KMapMusic.obj"
+".\ClientRelease\KLadder.obj"
+".\ClientRelease\stdafx.obj"
+"..\..\Lib\release\engine.lib"
+"..\..\Lib\release\common.lib"
+".\Src\USBKey\EP1KDL20.LIB"
+".\Src\USBKey\EpsForJoLib.lib"
+]
+Creating command line "link.exe @C:\Users\dung_\AppData\Local\Temp\RSP63F3.tmp"
+<h3>Output Window</h3>
+Compiling...
+stdafx.cpp
+Compiling...
+KPartnerSkill.cpp
+KPlayerPartner.cpp
+KThiefSkill.cpp
+KMissleRes.cpp
+KMissleSet.cpp
+KSkillList.cpp
+KSkillManager.cpp
+KSkills.cpp
+KSkillSpecial.cpp
+Skill.cpp
+KFaction.cpp
+KGameData.cpp
+KNpc.cpp
+KNpcAI.cpp
+KNpcAttribModify.cpp
+KNpcDeathCalcExp.cpp
+KNpcFindPath.cpp
+KNpcRes.cpp
+KNpcResList.cpp
+KNpcResNode.cpp
+Generating Code...
+Compiling...
+KNpcSet.cpp
+KNpcTemplate.cpp
+KPlayer.cpp
+KPlayerAI.cpp
+KPlayerChat.cpp
+KPlayerChatRoom.cpp
+KPlayerDBFuns.cpp
+KPlayerFaction.cpp
+KPlayerMenuState.cpp
+KPlayerPK.cpp
+KPlayerSet.cpp
+KPlayerTask.cpp
+KPlayerTeam.cpp
+KPlayerTong.cpp
+KPlayerTrade.cpp
+KSprControl.cpp
+KTongData.cpp
+KBasPropTbl.CPP
+KBuySell.cpp
+KInventory.cpp
+Generating Code...
+Compiling...
+KItem.cpp
+KItemChangeRes.cpp
+KItemGenerator.CPP
+KItemList.cpp
+KItemSet.cpp
+KObj.cpp
+KObjSet.cpp
+KSellItem.cpp
+KViewItem.cpp
+KCore.cpp
+KSubWorld.cpp
+KSubWorldSet.cpp
+KWeatherMgr.cpp
+KRegion.cpp
+KWorldMsg.cpp
+KMath.cpp
+KProtocol.cpp
+KProtocolProcess.cpp
+ScriptFuns.cpp
+KScriptValueSet.cpp
+Generating Code...
+Compiling...
+KSortScript.cpp
+CoreShell.cpp
+KIpotBranch.cpp
+KIpotLeaf.cpp
+KScenePlaceC.cpp
+KScenePlaceRegionC.cpp
+KWeather.cpp
+SceneMath.cpp
+ScenePlaceMapC.cpp
+CoreDrawGameObj.cpp
+ImgRef.cpp
+KMagicDesc.cpp
+KGMCommand.cpp
+KTaskFuns.cpp
+KOption.cpp
+KMapMusic.cpp
+KLadder.cpp
+Generating Code...
+Compiling...
+KMissle.cpp
+Compiling...
+KIpoTree.cpp
+Linking...
+   Creating library ClientRelease/CoreClient.lib and object ClientRelease/CoreClient.exp
+Creating temporary file "C:\Users\dung_\AppData\Local\Temp\RSP6FEA.bat" with contents
+[
+@echo off
+md ..\..\..\bin\client\release
+md ..\..\lib\release
+copy ClientRelease\CoreClient.pdb ..\..\..\bin\client\CoreClient.pdb
+copy ClientRelease\CoreClient.map ..\..\..\bin\client\CoreClient.map
+copy ClientRelease\CoreClient.dll ..\..\..\bin\client\CoreClient.dll
+copy ClientRelease\CoreClient.pdb ..\..\..\bin\client\release\CoreClient.pdb
+copy ClientRelease\CoreClient.map ..\..\..\bin\client\release\CoreClient.map
+copy ClientRelease\CoreClient.dll ..\..\..\bin\client\debug\CoreClient.dll
+copy ClientRelease\CoreClient.lib ..\..\lib\debug\CoreClient.lib
+]
+Creating command line "C:\Users\dung_\AppData\Local\Temp\RSP6FEA.bat"
+
+A subdirectory or file ..\..\..\bin\client\release already exists.
+A subdirectory or file ..\..\lib\release already exists.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+
+
+
+<h3>Results</h3>
+CoreClient.dll - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: Engine - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+Engine.dll - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: Engine - Win32 OuRead Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+Engine.dll - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: ExpandPackage - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+ExpandPackage.dll - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: ExpandPackageStaticLib - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+ExpandPackageStaticLib.lib - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: FilterText - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+FilterText.dll - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: FilterText_StaticLib - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+FilterText_StaticLib.lib - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: GameServer - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+GameServer.exe - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: Goddess - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+Goddess.exe - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: Heaven - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+Heaven.dll - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: LuaLibDll - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+LuaLibDll.dll - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: Rainbow - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+Rainbow.dll - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: Represent2 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+Represent2.dll - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: Represent3 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+Represent3.dll - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: S3Client - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\dung_\AppData\Local\Temp\RSP72BA.tmp" with contents
+[
+/nologo /MD /W3 /GX /Zi /O2 /I "../Engine/src" /I "../Core/src" /I "../Engine/include" /I "../../Headers" /D "WIN32" /D "NDEBUG_WINDOWS" /D "_MBCS" /D "SWORDONLINE_USE_MD5_PASSWORD" /Fp"Release/S3Client.pch" /Yu"KWin32.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\S3Client\Ui\Elem\MouseHover.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\S3Client\Ui\Elem\SpaceOver.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\S3Client\Ui\UiCase\UiSkills.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\S3Client\Ui\uicase\UiMiniMap.cpp"
+"E:\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\S3Client\S3Client.cpp"
+]
+Creating command line "cl.exe @C:\Users\dung_\AppData\Local\Temp\RSP72BA.tmp" 
+Creating temporary file "C:\Users\dung_\AppData\Local\Temp\RSP72BB.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Winmm.lib shlwapi.lib lualibdll.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/Game.pdb" /map:"Release/Game.map" /debug /machine:I386 /out:"Release/Game.exe" /libpath:"../../lib/" 
+".\Release\AutoLocateWnd.obj"
+".\Release\ComWindow.obj"
+".\Release\MouseHover.obj"
+".\Release\PopupMenu.obj"
+".\Release\SpaceOver.obj"
+".\Release\SpecialFuncs.obj"
+".\Release\TextPic.obj"
+".\Release\UiCursor.obj"
+".\Release\UiImage.obj"
+".\Release\WndBorder.obj"
+".\Release\WndButton.obj"
+".\Release\WndEdit.obj"
+".\Release\WndImage.obj"
+".\Release\WndImagePart.obj"
+".\Release\WndLabeledButton.obj"
+".\Release\WndList.obj"
+".\Release\WndList2.obj"
+".\Release\WndMessageListBox.obj"
+".\Release\WndMovingImage.obj"
+".\Release\WndObjContainer.obj"
+".\Release\WndPage.obj"
+".\Release\WndPureTextBtn.obj"
+".\Release\Wnds.obj"
+".\Release\WndScrollBar.obj"
+".\Release\WndShadow.obj"
+".\Release\WndShowAnimate.obj"
+".\Release\WndText.obj"
+".\Release\WndToolBar.obj"
+".\Release\WndValueImage.obj"
+".\Release\WndWindow.obj"
+".\Release\UiConnectInfo.obj"
+".\Release\UiLogin.obj"
+".\Release\UiLoginBg.obj"
+".\Release\UiNotice.obj"
+".\Release\UiSelServer.obj"
+".\Release\UiChooseFace.obj"
+".\Release\UiContainer.obj"
+".\Release\UiFaceSelector.obj"
+".\Release\UiPlayerBar.obj"
+".\Release\UiPlayerControlBar.obj"
+".\Release\UiStatus.obj"
+".\Release\UiOptions.obj"
+".\Release\UiInit.obj"
+".\Release\UiAutoPlay.obj"
+".\Release\UiBreakItem.obj"
+".\Release\UiExpandItem.obj"
+".\Release\UiGetMoney.obj"
+".\Release\UiGive.obj"
+".\Release\UiItem.obj"
+".\Release\UiPlayerLock.obj"
+".\Release\UiSkills.obj"
+".\Release\UiSkillTree.obj"
+".\Release\UiStoreBox.obj"
+".\Release\UiESCDlg.obj"
+".\Release\UiGetString.obj"
+".\Release\UiMsgSel.obj"
+".\Release\UiParadeItem.obj"
+".\Release\UiSelPlayerNearby.obj"
+".\Release\UiNewPlayer.obj"
+".\Release\UiSelNativePlace.obj"
+".\Release\UiSelPlayer.obj"
+".\Release\UiChatCentre.obj"
+".\Release\UiChatPhrase.obj"
+".\Release\UiChatRoom.obj"
+".\Release\UiInformation.obj"
+".\Release\UiInformation1.obj"
+".\Release\UiInformation2.obj"
+".\Release\UiTeamManage.obj"
+".\Release\UiChatItem.obj"
+".\Release\UiHeaderControlBar.obj"
+".\Release\UiMsgCentrePad.obj"
+".\Release\UiRankData.obj"
+".\Release\UiToolsControlBar.obj"
+".\Release\UiPlayerShop.obj"
+".\Release\UiSetPrice.obj"
+".\Release\UiShop.obj"
+".\Release\UiSuperShop.obj"
+".\Release\UiTrade.obj"
+".\Release\UiTradeConfirmWnd.obj"
+".\Release\UiGame.obj"
+".\Release\UiSysMsgCentre.obj"
+".\Release\UiCaveList.obj"
+".\Release\UiMiniMap.obj"
+".\Release\UiSelColor.obj"
+".\Release\UiNewPlayerStartMsg.obj"
+".\Release\UiHelper.obj"
+".\Release\UiHelper2.obj"
+".\Release\UiReconnect.obj"
+".\Release\UiTaskDataFile.obj"
+".\Release\UiTaskNote.obj"
+".\Release\UiWorldMap.obj"
+".\Release\UiNewsMessage.obj"
+".\Release\UiNewsMessage2.obj"
+".\Release\UiNewsSysMsg.obj"
+".\Release\UiStrengthRank.obj"
+".\Release\UiTongAssignBox.obj"
+".\Release\UiTongCreateSheet.obj"
+".\Release\UiTongGetString.obj"
+".\Release\UiTongManager.obj"
+".\Release\UiEnchase.obj"
+".\Release\UiSoundSetting.obj"
+".\Release\GameSpaceChangedNotify.obj"
+".\Release\ShortcutKey.obj"
+".\Release\UiBase.obj"
+".\Release\UiShell.obj"
+".\Release\ChatFilter.obj"
+".\Release\FilterTextLib.obj"
+".\Release\S3Client.obj"
+".\Release\NetConnectAgent.obj"
+".\Release\Login.obj"
+".\Release\TextCtrlCmd.obj"
+".\Release\ErrorCode.obj"
+".\Release\stdafx.obj"
+".\Release\Script1.res"
+"..\..\Lib\release\engine.lib"
+"..\..\Lib\release\CoreClient.lib"
+"\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\MultiServer\Common\Release\Common.lib"
+"\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Engine\Release\Engine.lib"
+"\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\ExpandPackage2.0\Release\ExpandPackage.lib"
+"\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\ExpandPackageStaticLib\Release\ExpandPackageStaticLib.lib"
+"\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\FilterText\Release\FilterText.lib"
+"\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\FilterText\FilterText_StaticLib___Win32_Release\FilterText_StaticLib.lib"
+"\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\Library\LuaLib\Release\LuaLibDll.lib"
+"\Sword3\src-tinh-kiem\00.src-tinh-kiem\SwordOnline\Sources\MultiServer\Rainbow\Release\Rainbow.lib"
+]
+Creating command line "link.exe @C:\Users\dung_\AppData\Local\Temp\RSP72BB.tmp"
+<h3>Output Window</h3>
+Compiling...
+MouseHover.cpp
+SpaceOver.cpp
+UiSkills.cpp
+UiMiniMap.cpp
+S3Client.cpp
+Generating Code...
+Linking...
+Creating temporary file "C:\Users\dung_\AppData\Local\Temp\RSP76A4.bat" with contents
+[
+@echo off
+md ..\..\..\bin\client\release\
+copy Release\Game.exe ..\..\..\bin\Client\Game.exe
+copy Release\Game.exe ..\..\..\bin\Client\release\Game.exe
+]
+Creating command line "C:\Users\dung_\AppData\Local\Temp\RSP76A4.bat"
+
+A subdirectory or file ..\..\..\bin\client\release\ already exists.
+        1 file(s) copied.
+        1 file(s) copied.
+
+
+
+<h3>Results</h3>
+Game.exe - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: S3Relay - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+S3Relay.exe - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: S3RelayServer - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+S3RelayServer.exe - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: Sword3PaySys - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+Sword3PaySys.exe - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: Sword3PaySys - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+
+
+
+<h3>Results</h3>
+Sword3PaySys.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

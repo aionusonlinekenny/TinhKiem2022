@@ -1,0 +1,79 @@
+
+*
+***** S3Relay Start (@ 2025/09/11 13:23:22.041) >>>>>
+*
+
+[2025/09/11 13:23:22] 1 -- Initializing ...
+[2025/09/11 13:23:22] 2 -- Create Channel: [Stock, GM] <00000000> GM
+[2025/09/11 13:23:22] 3 -- Create Channel: [Stock] <00000001> 世界
+[2025/09/11 13:23:22] 4 -- friend timing update db: start
+[2025/09/11 13:23:22] 5 -- relay server startup
+[2025/09/11 13:23:22] 6 -- root client create: 192.168.254.53
+[2025/09/11 13:23:22] 7 -- DBRole client create: 192.168.254.53
+[2025/09/11 13:23:22] 8 -- root client close: 192.168.254.53
+[2025/09/11 13:23:22] 9 -- gateway client create: 192.168.254.53
+[2025/09/11 13:23:22] 10 -- host server startup
+[2025/09/11 13:23:22] 11 -- tong server startup
+[2025/09/11 13:23:22] 12 -- chat server startup
+[2025/09/11 13:23:22] 13 -- SockThread start success
+[2025/09/11 13:23:22] 14 -- tong database openning
+[2025/09/11 13:23:22] 15 -- ------------ nTongNum 0 ? -------------
+[2025/09/11 13:23:22] 16 -- tongset init ok ! Number Tong: 0
+[2025/09/11 13:23:22] 17 -- Initialize OK
+[2025/09/11 13:23:37] 18 -- host connect create: 192.168.254.53
+[2025/09/11 13:23:37] 19 -- chat connect create: 192.168.254.53
+[2025/09/11 13:23:37] 20 -- tong connect create: 192.168.254.53
+[2025/09/11 13:24:01] 21 -- load someone: DienBaQuan
+[2025/09/11 13:24:01] 22 -- player login: kenny [DienBaQuan] (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 23 -- Query ChannelID: \S from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 24 -- Create Channel: <00000002> \S905881792
+[2025/09/11 13:24:01] 25 -- Query ChannelID: 世界 from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 26 -- Query ChannelID: \F2 from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 27 -- Create Channel: <00000003> \F2
+[2025/09/11 13:24:01] 28 -- Query ChannelID: GM from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 29 -- Query ChannelID: \B from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 30 -- Create Channel: <00000004> \B905881792
+[2025/09/11 13:24:01] 31 -- sync friend list: DienBaQuan (full)
+[2025/09/11 13:24:01] 32 -- Query ChannelID: \S from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 33 -- Query ChannelID: 世界 from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 34 -- Query ChannelID: \F2 from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 35 -- Query ChannelID: GM from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 36 -- Query ChannelID: \B from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 37 -- Query ChannelID: \S from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 38 -- Query ChannelID: 世界 from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 39 -- Query ChannelID: \F2 from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 40 -- Query ChannelID: GM from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 41 -- Query ChannelID: \B from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 42 -- Query ChannelID: \S from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 43 -- Query ChannelID: 世界 from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 44 -- Query ChannelID: \F2 from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 45 -- Query ChannelID: GM from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 46 -- Query ChannelID: \B from (35FEA8C0, 00000000)
+[2025/09/11 13:24:01] 47 -- Subscribe Channel: 00000002 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 48 -- Subscribe Channel: 00000001 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 49 -- Subscribe Channel: 00000003 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 50 -- Subscribe Channel: GM <00000000> by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 51 -- Subscribe Channel: 00000004 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 52 -- Subscribe Channel: 00000002 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 53 -- Subscribe Channel: 00000001 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 54 -- Subscribe Channel: 00000003 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 55 -- Subscribe Channel: GM <00000000> by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 56 -- Subscribe Channel: 00000004 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 57 -- Subscribe Channel: 00000002 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 58 -- Subscribe Channel: 00000001 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 59 -- Subscribe Channel: 00000003 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 60 -- Subscribe Channel: GM <00000000> by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 61 -- Subscribe Channel: 00000004 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 62 -- Subscribe Channel: 00000002 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 63 -- Subscribe Channel: 00000001 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 64 -- Subscribe Channel: 00000003 by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 65 -- Subscribe Channel: GM <00000000> by (35FEA8C0,00000000)
+[2025/09/11 13:24:01] 66 -- Subscribe Channel: 00000004 by (35FEA8C0,00000000)
+[2025/09/11 13:28:25] 67 -- update friend DB succeed
+[2025/09/11 13:33:25] 68 -- update friend DB succeed
+[2025/09/11 13:36:04] 69 -- DBRole client close: 192.168.254.53
+[2025/09/11 13:36:04] 70 -- enable reclient: db
+[2025/09/11 13:36:16] 71 -- try reclient: db - 192.168.254.53
+[2025/09/11 13:36:16] 72 -- FAIL: reclient db - 192.168.254.53
+[2025/09/11 13:36:28] 73 -- try reclient: db - 192.168.254.53
+[2025/09/11 13:36:28] 74 -- FAIL: reclient db - 192.168.254.53

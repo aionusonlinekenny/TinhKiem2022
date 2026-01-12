@@ -1,0 +1,16 @@
+11:39:13	 Tµi kho¶n: 0386856435	 Nh©n vËt: ThÇn§iªu	 UUID: 2105524804	 CÊp: 	150	 M«n ph¸i: kunlun	 IP: 192.168.1.77 : 51639	 Xu: 0	 Tæng tiÒn v¹n: 	8646303
+11:42:36	 Tµi kho¶n: 0386856435	 Nh©n vËt: ThÇn§iªu	 UUID: 2105524804	 CÊp: 	150	 M«n ph¸i: kunlun	 IP: 192.168.1.77 : 51695	 Xu: 0	 Tæng tiÒn v¹n: 	8646303
+12:03:52	 Tµi kho¶n: 0386856435	 Nh©n vËt: ThÇn§iªu	 UUID: 2105524804	 CÊp: 	150	 M«n ph¸i: kunlun	 IP: 192.168.1.77 : 52029	 Xu: 0	 Tæng tiÒn v¹n: 	8698189
+12:05:19	 Tµi kho¶n: 0386856435	 Nh©n vËt: ThÇn§iªu	 UUID: 2105524804	 CÊp: 	150	 M«n ph¸i: kunlun	 IP: 192.168.1.77 : 52037	 Xu: 0	 Tæng tiÒn v¹n: 	8698189
+13:44:30	 Tµi kho¶n: 0386856435	 Nh©n vËt: ThÇn§iªu	 UUID: 2105524804	 CÊp: 	150	 M«n ph¸i: kunlun	 IP: 192.168.1.77 : 52345	 Xu: 0	 Tæng tiÒn v¹n: 	8883691
+13:46:33	 Tµi kho¶n: 0386856436	 Nh©n vËt: Test01	 UUID: 4161587776	 CÊp: 	1	 M«n ph¸i: 	 IP: 192.168.1.77 : 52348	 Xu: 0	 Tæng tiÒn v¹n: 	0
+13:46:49	 Tµi kho¶n: 0386856437	 Nh©n vËt: Test02	 UUID: 4161588650	 CÊp: 	1	 M«n ph¸i: 	 IP: 192.168.1.77 : 52350	 Xu: 0	 Tæng tiÒn v¹n: 	0
+14:05:14	 Tµi kho¶n: 0386856435	 Nh©n vËt: ThÇn§iªu	 UUID: 2105524804	 CÊp: 	150	 M«n ph¸i: kunlun	 IP: 192.168.1.77 : 52368	 Xu: 0	 Tæng tiÒn v¹n: 	8933254
+14:34:23	 Tµi kho¶n: 0386856435	 Nh©n vËt: ThÇn§iªu	 UUID: 2105524804	 CÊp: 	150	 M«n ph¸i: kunlun	 IP: 192.168.1.77 : 52496	 Xu: 0	 Tæng tiÒn v¹n: 	3933337
+14:58:00	 Tµi kho¶n: 0386856435	 Nh©n vËt: ThÇn§iªu	 UUID: 2105524804	 CÊp: 	150	 M«n ph¸i: kunlun	 IP: 192.168.1.77 : 52616	 Xu: 0	 Tæng tiÒn v¹n: 	3784627
+15:15:58	 Tµi kho¶n: 0386856435	 Nh©n vËt: ThÇn§iªu	 UUID: 2105524804	 CÊp: 	150	 M«n ph¸i: kunlun	 IP: 192.168.1.77 : 52727	 Xu: 0	 Tæng tiÒn v¹n: 	3782255
+15:30:26	 Tµi kho¶n: 0386856435	 Nh©n vËt: ThÇn§iªu	 UUID: 2105524804	 CÊp: 	150	 M«n phái: kunlun	 IP: 192.168.1.77 : 52885	 Xu: 0	 Tæng tiÒn v¹n: 	3782255
+23:29:27	 Tµi kho¶n: 0386856435	 Nh©n vËt: D­¬ngTiÔn	 UUID: 3461094655	 CÊp: 	1	 M«n phái: 	 IP: 192.168.1.77 : 49538	 Xu: 0	 Tæng tiÒn v¹n: 	0
+23:40:03	 Tµi kho¶n: 0386856435	 Nh©n vËt: D­¬ngTiÔn	 UUID: 3461094655	 CÊp: 	1	 M«n phái: 	 IP: 192.168.1.77 : 49621	 Xu: 0	 Tæng tiÒn v¹n: 	0
+23:49:19	 Tµi kho¶n: 0386856435	 Nh©n vËt: D­¬ngTiÔn	 UUID: 3461094655	 CÊp: 	1	 M«n phái: 	 IP: 192.168.1.77 : 49837	 Xu: 0	 Tæng tiÒn v¹n: 	0
+23:51:21	 Tµi kho¶n: 0386856435	 Nh©n vËt: D­¬ngTiÔn	 UUID: 3461094655	 CÊp: 	1	 M«n phái: 	 IP: 192.168.1.77 : 49873	 Xu: 0	 Tæng tiÒn v¹n: 	0

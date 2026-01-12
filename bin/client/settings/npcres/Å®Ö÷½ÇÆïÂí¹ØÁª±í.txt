@@ -1,0 +1,257 @@
+EqType	FightStand	NormalStand1	NormalStand2	FightWalk	NormalWalk	FightRun	NormalRun	Wound	Die	Attack1	Attack2	Magic	SitDown	JunpFly
+Tay Kh«ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n KiÕm 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n KiÕm 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n KiÕm 3	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao 3	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng Th­¬ng 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng Th­¬ng 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng Th­¬ng 3	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng C«n 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng C«n 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng C«n 3	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song KiÕm 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song KiÕm 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song KiÕm 3	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song Chïy 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song Chïy 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song Chïy 3	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+¸m KhÝ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideMagic	RideMagic	RideMagic		
+§¬n KiÕm 4	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n KiÕm 5	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao 4	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao 5	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng Th­¬ng 4	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng Th­¬ng 5	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng C«n 4	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng C«n 5	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song KiÕm 4	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song KiÕm 5	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song Chïy 4	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song Chïy 5	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao 6 ( Kim )	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao 7 ( Thñy )	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao 8 ( Méc )	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao 9 ( Thæ )	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n KiÕm 6 ( Thñy )	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n KiÕm 7 ( Thæ )	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng Th­¬ng 6 ( Kim )	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng Th­¬ng 7 ( Háa )	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng C«n 6 ( Kim )	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng C«n 7 ( Háa )	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song KiÕm 6 ( Thñy )	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song Chïy 6 ( Kim )	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song TriÒn Thñ - Kim	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song TriÒn Thñ - Thñy	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song TriÒn Thñ - Méc	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song TriÒn Thñ - Háa	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng C«n - Kim C«n	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng C«n - Háa C«n	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng Th­¬ng - Kim Th­¬ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng Th­¬ng - Háa Th­¬ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao - Kim	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao - Méc	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao - Thñy	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao Háa - Háa	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao - L«i	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n KiÕm - Thñy	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n KiÕm - L«i	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n KiÕm L«I - L«i	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song Chïy - Kim	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song §ao - Thñy	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao - Ph¸t Quang 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n KiÕm - Ph¸t Quang 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao Háa - Ph¸t Quang 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n KiÕm L«I - Ph¸t Quang 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng C«n - Ph¸t Quang 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng Th­¬ng - Ph¸t Quang 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song Chïy - Ph¸t Quang 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song §ao - Ph¸t Quang 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song TriÒn Thñ - Ph¸t Quang 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song Tr¶o - Ph¸t Quang 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tay Kh«ng - Ph¸t Quang 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao - Ph¸t Quang 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n KiÕm - Ph¸t Quang 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n §ao Háa - Ph¸t Quang 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§¬n KiÕm L«i - Ph¸t Quang 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng C«n - Ph¸t Quang 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tr­êng Th­¬ng - Ph¸t Quang 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song Chïy - Ph¸t Quang 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song §ao - Ph¸t Quang 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song TriÒn Thñ - Ph¸t Quang 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Song Tr¶o - Ph¸t Quang 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tay Kh«ng - Ph¸t Quang 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Quy Y TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Cùc Nh¹o T¨ng C«n	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi H­ Kh«ng Giíi §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi ChiÕn ThÇn Chïy	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Anh Hïng Th­¬ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Ph¸ch V­¬ng B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi T¸n Hoa Tr­êng KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi L¨ng Tiªu TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi V¹n Hoa B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Ph­¬ng Hoa Song §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Diªm La TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Minh V­¬ng B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi LiÔm DiÔm Phi §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Thiªn Hoµng Tô TiÔn	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Thiªn Kiªu Phi Tiªu	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi ThiÕt HuyÕt TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Quang Phóc C«n	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Dôc NhËt Th­¬ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­¬ng Chi SÝ §Þa §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Kh«ng Minh KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Bång Lai KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Cöu Thiªn Hµn ThiÕt	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Tham Th­¬ng KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tö M·ng Chi KÕt L« KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+B¹ch Hæ Chi Tö C©m KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Minh Ph­îng Chi Tr¹m Vò KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Bå §Ò TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Nh­ Lai Ph¸p C«n	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi V« L­îng Giíi §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Khai Thiªn ThÇn Chóy	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi TÝch §Þa Th­¬ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Hçn Nguyªn B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Phi Thiªn Tr­êng KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi B¨ng Ph¸ch TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Khuynh Thµnh B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi B¸ch H­¬ng Uyªn ¦¬ng §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi V¹n §éc TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi V¹n Linh HuyÕt §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Hçn §én Phi §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi ThÝ ThÇn Tô TiÔn	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Phãng B¹o Phi Tiªu	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Hµo T×nh TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Tô NghÜa C«n	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Viªm Hoµng Th­¬ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi PhÇn Thiªn B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Ngäc H­ ThÇn KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi HuyÒn Thiªn ThÇn KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Ph­¬ng Nguyªn B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Th­¬ng Khung ThÇn KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Tè Du KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+§»ng Long Chi Y Thñy KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi Khæ §Õ TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi DiÖt §Õ Ph¸p C«n	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi §¹o §Õ Giíi §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi Th«n Tµ ThÇn Chïy	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi L­u Kim Th­¬ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi LÝ S­¬ng B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi L¹c Anh B¶o KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi PhÊt HuyÖt TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi Thiªn H­¬ng B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi Th¶i VËn Uyªn ¦¬ng §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi ThiÒm Phi TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi Phô Cèt HuyÕt §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi L·nh HuyÕt Phi §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi Né Liªn Tô TiÔn	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi Truy MÖnh Phi Tiªu	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi M·nh Long TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi Ph¸ Lç C«n	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi LuyÖn NhËt Th­¬ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi Khèc Viªm B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi ChÊn San ThÇn KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi Qu©n Uy ThÇn KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi Minh L«I B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi Oanh Minh ThÇn KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi H¹o Thiªn KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tinh S­¬ng Chi Thanh H­ KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi Träng KiÕp TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi S¸t KiÕp Ph¸p C«n	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi Ph¸ KiÕp Giíi §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi PhÊn Vò ThÇn Chïy	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi Phong Yªn Th­¬ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi Tr­ëng Kh«ng B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi Kinh Hång B¶o KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi HiÓu NguyÖt TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi T­¬ng T­ B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi Phãng NguyÖt Uyªn ¦¬ng §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi B¸ch §éc TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi U Minh HuyÕt §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi Th«I MÖnh Phi §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi BÝ §éc Tô TiÔn	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi M¹n §å Phi Tiªu	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi XÝch Lòng TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi Hµo KiÖt C«n	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi Tham Lang Th­¬ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi LiÖt D­¬ng B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi Linh §éng ThÇn KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi HuyÔn ¶nh ThÇn KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi L¨ng Phãng B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi Méc Vò ThÇn KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi Thanh Phãng KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+NguyÖt KhuyÕt Chi DËt ¶nh KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi Méng Long TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi Phôc Ma Ph¸p C«n	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi Tø Kh«ng Giíi §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi H¸m Thiªn ThÇn Chóy	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi KÕ NghiÖp Th­¬ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi Ngù Long B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi V« D¶n B¶o KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi V« YÓm TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi Tª Hoµng B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi BÝch H¶i Uyªn ¦¬ng §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi U Lung TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi Minh HuyÔn HuyÕt §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi B¨ng Hµn Phi §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi Thiªn Quang Tô TiÔn	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi S©m Hoµng Phi Tiªu	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi §ång Cõu TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi §Þch HÊt C«n	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi Ma S¸t Th­¬ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi Ma Hoµng B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi L¨ng Nh¹c ThÇn KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi CËp Phong ThÇn KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi S­¬ng Tinh B¶o §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi L«i Khung ThÇn KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi Phï V©n KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+DiÖu D­¬ng Chi Trïng V©n KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi ThiÕu L©m Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi ThiÕu L©m C«n	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi ThiÕu L©m §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Thiªn V­¬ng Chïy	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Thiªn V­¬ng Th­¬ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Thiªn V­¬ng §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Nga Mi KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Nga Mi Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Thóy Yªn §¬n §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Thóy Yªn Song §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Ngò §éc Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Ngò §éc §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi §­êng M«n Phi §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi §­êng M«n Tô TiÔn	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi §­êng M«n Phi Tiªu	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi C¸I Bang TriÒn Thñ	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi C¸I Bang C«n	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Thiªn NhÉn Th­¬ng	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Thiªn NhÉn §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Vâ §ang KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Vâ §ang KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi C«n L«n §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi C«n L«n KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Hoa S¬n KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Hoa S¬n KiÕm	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Vò Hån Vò KhÝ §ao 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Vò Hån Vò KhÝ ThuÉn 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Vò Hån Vò KhÝ §ao 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Vò Hån Vò KhÝ ThuÉn 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Vò Hån NguyÖt KhuyÕt §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Vò Hån NguyÖt KhuyÕt ThuÉn	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Vò Hån DiÖu D­¬ng §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Vò Hån DiÖu D­¬ng ThuÉn	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Vò Hån T©n Thñ Vò KhÝ §ao	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Vò Hån T©n Thñ Vò KhÝ ThuÉn	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Vò Hån ThuÉn Ph¸p	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Anh Hµo Chi Vò Hån §ao Ph¸p	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tiªu Dao KiÕm 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tiªu Dao KiÕm 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tiªu Dao KiÕm 3	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tiªu Dao KiÕm 4	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tiªu Dao CÇm 1	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tiªu Dao CÇm 2	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tiªu Dao CÇm 3	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+Tiªu Dao CÇm 4	RideStand	RideStand	RideStand1	RideWalk	RideWalk	RideRun	RideRun	RideWound	RideDie	RideCut	RidePuncture	RideMagic		
+null														

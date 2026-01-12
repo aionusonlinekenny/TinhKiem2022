@@ -1,0 +1,84 @@
+EqName	SwordShieldWFreeStand	ShieldSwordWFreeStand	FreeStand1	FreeStand2	FreeStand3	MeleeWStand	RangeWStand	DoubleWStand	SwordShieldWStand	ShieldSwordWStand	FreeWalk	NormalWalk	MeleeWWalk	RangeWWalk	DoubleWWalk	SwordShieldWWalk	ShieldSwordWWalk	FreeRun	NormalRun	MeleeWRun	RangeWRun	DoubleWRun	SwordShieldWRun	ShieldSwordWRun	FreeWound	MeleeWWound	RangeWWound	DoubleWWound	SwordShieldWWound	ShieldSwordWWound	FreeDie	MeleeWDie	RangeWDie	DoubleWDie	SwordShieldWDie	ShieldSwordWDie	FreeAttack	MeleeWPuncture	MeleeWCut	RangeWPuncture	RangeWCut	DoubleWPull	DoubleWPound	SwordShieldWChop	SwordShieldWCut	ShieldSwordWChop	ShieldSwordWCut	DartThrow	FreeMagic	MeleeWMagic	RangeWMagic	DoubleWMagic	SwordShieldWMagic	ShieldSwordWMagic	SitDown	Jump										RideStand	RideWalk	RideRun	RideCut	RidePuncture	RideMagic	RideWound	RideDie	RideStand1	RideStand2
+Ngùa 1																																																																											
+Ngùa 2																																																																											
+Ngùa 3																																																																											
+Ngùa 4																																																																											
+Ngùa 5																																																																											
+Ngùa 6																																																																											
+Ngùa 7																																																																											
+Ngùa 8																																																																											
+Ngùa 9																																																																											
+Ngùa 10																																																																											
+Ngùa 11																																																																											
+Ngùa 12																																																																											
+Ngùa sè 13																																																																											
+Ngùa 14																																																																											
+Ngùa 15																																																																											
+Ngùa 16																																																																											
+Ngùa 17																																																																											
+Ngùa 18																																																																											
+Ngùa 19																																																																											
+Ngùa 20																																																																											
+Ngùa 21																																																																											
+Ngùa 22																																																																											
+Ngùa 23																																																																		20,1,30	20,1,30	20,1,30	20,1,30	20,1,30	20,1,30	20,1,30	20,1,30	20,1,30	20,1,30
+Ngùa 24																																																																											
+Ngùa 25																																																																											
+Ngùa 26																																																																											
+Ngùa 27																																																																											
+Ngùa 28																																																																											
+Ngùa 29																																																																											
+Ngùa 30																																																																											
+Ngùa 31																																																																											
+Ngùa 32																																																																											
+Ngùa 33																																																																											
+Ngùa 34																																																																											
+Ngùa 35																																																																											
+Ngùa 36																																																																											
+ÂíÆ¥37																																																																											
+ÂíÆ¥38																																																																											
+ÂíÆ¥39																																																																											
+ÂíÆ¥40																																																																											
+ÂíÆ¥41																																																																											
+ÂíÆ¥42																																																																											
+ÂíÆ¥43																																																																											
+ÂíÆ¥44																																																																											
+ÂíÆ¥45																																																																											
+ÂíÆ¥46																																																																											
+ÂíÆ¥47																																																																											
+ÂíÆ¥48																																																																											
+ÂíÆ¥49																																																																		112,8,1	96,8,1	80,8,1	96,8,1	112,8,1	96,8,1	48,8,1	112,8,1	112,8,1	112,8,1
+																																																																											
+ÂíÆ¥49																																																																		112,8,1	96,8,1	80,8,1	96,8,1	112,8,1	96,8,1	48,8,1	112,8,1	112,8,1	112,8,1
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+																																																																											
+ÂíÆ¥49																																																																		112,8,1	96,8,1	80,8,1	96,8,1	112,8,1	96,8,1	48,8,1	112,8,1	112,8,1	112,8,1

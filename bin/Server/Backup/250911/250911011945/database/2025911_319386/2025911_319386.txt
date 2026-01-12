@@ -1,0 +1,43 @@
+Tai khoan	Ten nhan vat	Mon phai	Trung sinh	Dang cap	Ngan luong
+kenny	DienBaQuan	Duong Mon	0	150	10099524
+kenny	Test01	So nhap	0	150	10000000
+==Hoan tat ghi chep==
+
+==Thong ke==
+Tong so nguoi choi toan server: 2
+Thieu Lam phai: 0
+Thien Vuong Bang: 0
+Duong Mon: 1
+Ngu Doc Giao: 0
+Nga My phai: 0
+Thuy Yen Mon: 0
+Cai Bang: 0
+Thien Nhan Giao: 0
+Vo Dang phai: 0
+Con Lon phai: 0
+Hoa Son phai: 0
+Vu Hon phai: 1
+Tieu Dao phai: 0
+So nhap: 0
+Xuat su: 0
+------------------------------------------------
+Tong ngan luong toan server: 2.00995e+07
+Thieu Lam phai: 0
+Thien Vuong Bang: 0
+Duong Mon: 1.00995e+07
+Ngu Doc Giao: 0
+Nga My phai: 0
+Thuy Yen Mon: 0
+Cai Bang: 0
+Thien Nhan Giao: 0
+Vo Dang phai: 0
+Con Lon phai: 0
+Hoa Son phai: 0
+Vu Hon phai: 1e+07
+Tieu Dao phai: 0
+So nhap: 0
+Xuat su: 0
+------------------------------------------------
+Thong ke so luong nguoi choi moi cap[1-200 cap]:
+150cap: 2
+Nhan si loi dang cap: 0

@@ -1,0 +1,37 @@
+EqName	SwordShieldWFreeStand	ShieldSwordWFreeStand	FreeStand1	FreeStand2	FreeStand3	MeleeWStand	RangeWStand	DoubleWStand	SwordShieldWStand	ShieldSwordWStand	GuqinWStand1	GuqinWStand2	FreeWalk	NormalWalk	MeleeWWalk	RangeWWalk	DoubleWWalk	SwordShieldWWalk	ShieldSwordWWalk	GuqinWWalk	FreeRun	NormalRun	MeleeWRun	RangeWRun	DoubleWRun	SwordShieldWRun	ShieldSwordWRun	GuqinWRun	FreeWound	MeleeWWound	RangeWWound	DoubleWWound	SwordShieldWWound	ShieldSwordWWound	GuqinWWound	FreeDie	MeleeWDie	RangeWDie	DoubleWDie	SwordShieldWDie	ShieldSwordWDie	GuqinWDie	FreeAttack	MeleeWPuncture	MeleeWCut	RangeWPuncture	RangeWCut	DoubleWPull	DoubleWPound	SwordShieldWChop	SwordShieldWCut	ShieldSwordWChop	ShieldSwordWCut	GuqinWPuncture	GuqinWCut	DartThrow	FreeMagic	MeleeWMagic	RangeWMagic	DoubleWMagic	SwordShieldWMagic	ShieldSwordWMagic	GuqinWMagic	SitDown	Jump	RideStand	RideWalk	RideRun	RideCut	RidePuncture	RideMagic	RideWound	RideDie	RideStand1	RideStand2
+XÝch Thè																																																																											
+ChiÕu D¹																																																																											
+TuyÖt µnh																																																																											
+Ngùa ®en																																																																											
+Ngùa x¸m xanh																																																																											
+Ngùa bêm b¹c																																																																											
+Ngùa 7																																																																											
+Tøc S­¬ng																																																																											
+Ngùa 9																																																																											
+Ngùa ®Çu bäc thÐp																																																																											
+B«n Tiªu																																																																											
+Phiªn Vò																																																																											
+Phi V©n																																																																											
+XÝch Long C©u																																																																											
+Kh«ng cã																																																																											
+XÝch Long C©u mÆt tr¾ng																																																																											
+Kh«ng cã																																																																											
+Siªu Quang																																																																											
+Cäp tr¾ng x¸m																																																																											
+Cäp vµng																																																																											
+Trïng 20																																																																											
+Cäp ®en																																																																											
+H·n HuyÕt																																																																		horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+S­ tö tr¾ng																																																																											
+L¹c ®µ 2 b­íu																																																																											
+D­¬ng §µ xanh																																																																											
+Nai gi¸ng sinh nhá																																																																											
+Ngùa HK xanh																																																																											
+Ngùa HK hång																																																																											
+Ngùa HK vµng																																																																											
+Ngùa HK ®en																																																																											
+Kh«ng cã																																																																											
+Kh«ng cã																																																																											
+Kh«ng cã																																																																											
+ChiÕn Lang																																																																											
+Heo Rõng																																																																											

@@ -1,0 +1,101 @@
+
+*
+***** S3Relay Start (@ 2025/09/11 13:44:49.067) >>>>>
+*
+
+[2025/09/11 13:44:49] 1 -- Initializing ...
+[2025/09/11 13:44:49] 2 -- Create Channel: [Stock, GM] <00000000> GM
+[2025/09/11 13:44:49] 3 -- Create Channel: [Stock] <00000001> 世界
+[2025/09/11 13:44:49] 4 -- friend timing update db: start
+[2025/09/11 13:44:49] 5 -- relay server startup
+[2025/09/11 13:44:49] 6 -- root client create: 192.168.254.53
+[2025/09/11 13:44:49] 7 -- DBRole client create: 192.168.254.53
+[2025/09/11 13:44:49] 8 -- root client close: 192.168.254.53
+[2025/09/11 13:44:49] 9 -- gateway client create: 192.168.254.53
+[2025/09/11 13:44:49] 10 -- host server startup
+[2025/09/11 13:44:49] 11 -- tong server startup
+[2025/09/11 13:44:49] 12 -- chat server startup
+[2025/09/11 13:44:49] 13 -- SockThread start success
+[2025/09/11 13:44:49] 14 -- tong database openning
+[2025/09/11 13:44:49] 15 -- ------------ nTongNum 0 ? -------------
+[2025/09/11 13:44:49] 16 -- tongset init ok ! Number Tong: 0
+[2025/09/11 13:44:49] 17 -- Initialize OK
+[2025/09/11 13:45:04] 18 -- host connect create: 192.168.254.53
+[2025/09/11 13:45:04] 19 -- chat connect create: 192.168.254.53
+[2025/09/11 13:45:04] 20 -- tong connect create: 192.168.254.53
+[2025/09/11 13:45:13] 21 -- load someone: DienBaQuan
+[2025/09/11 13:45:13] 22 -- player login: kenny [DienBaQuan] (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 23 -- Query ChannelID: \S from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 24 -- Create Channel: <00000002> \S905881792
+[2025/09/11 13:45:13] 25 -- Query ChannelID: 世界 from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 26 -- Query ChannelID: \F2 from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 27 -- Create Channel: <00000003> \F2
+[2025/09/11 13:45:13] 28 -- Query ChannelID: GM from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 29 -- Query ChannelID: \B from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 30 -- Create Channel: <00000004> \B905881792
+[2025/09/11 13:45:13] 31 -- sync friend list: DienBaQuan (full)
+[2025/09/11 13:45:13] 32 -- Query ChannelID: \S from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 33 -- Query ChannelID: 世界 from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 34 -- Query ChannelID: \F2 from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 35 -- Query ChannelID: GM from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 36 -- Query ChannelID: \B from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 37 -- Query ChannelID: \S from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 38 -- Query ChannelID: 世界 from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 39 -- Query ChannelID: \F2 from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 40 -- Query ChannelID: GM from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 41 -- Query ChannelID: \B from (35FEA8C0, 00000000)
+[2025/09/11 13:45:13] 42 -- Subscribe Channel: 00000002 by (35FEA8C0,00000000)
+[2025/09/11 13:45:13] 43 -- Subscribe Channel: 00000001 by (35FEA8C0,00000000)
+[2025/09/11 13:45:13] 44 -- Subscribe Channel: 00000003 by (35FEA8C0,00000000)
+[2025/09/11 13:45:13] 45 -- Subscribe Channel: GM <00000000> by (35FEA8C0,00000000)
+[2025/09/11 13:45:13] 46 -- Subscribe Channel: 00000004 by (35FEA8C0,00000000)
+[2025/09/11 13:45:13] 47 -- Subscribe Channel: 00000002 by (35FEA8C0,00000000)
+[2025/09/11 13:45:13] 48 -- Subscribe Channel: 00000001 by (35FEA8C0,00000000)
+[2025/09/11 13:45:13] 49 -- Subscribe Channel: 00000003 by (35FEA8C0,00000000)
+[2025/09/11 13:45:13] 50 -- Subscribe Channel: GM <00000000> by (35FEA8C0,00000000)
+[2025/09/11 13:45:13] 51 -- Subscribe Channel: 00000004 by (35FEA8C0,00000000)
+[2025/09/11 13:45:13] 52 -- Subscribe Channel: 00000002 by (35FEA8C0,00000000)
+[2025/09/11 13:45:13] 53 -- Subscribe Channel: 00000001 by (35FEA8C0,00000000)
+[2025/09/11 13:45:13] 54 -- Subscribe Channel: 00000003 by (35FEA8C0,00000000)
+[2025/09/11 13:45:13] 55 -- Subscribe Channel: GM <00000000> by (35FEA8C0,00000000)
+[2025/09/11 13:45:13] 56 -- Subscribe Channel: 00000004 by (35FEA8C0,00000000)
+[2025/09/11 13:49:52] 57 -- update friend DB succeed
+[2025/09/11 13:54:52] 58 -- update friend DB succeed
+[2025/09/11 13:59:52] 59 -- update friend DB succeed
+[2025/09/11 14:04:52] 60 -- update friend DB succeed
+[2025/09/11 14:09:52] 61 -- update friend DB succeed
+[2025/09/11 14:14:52] 62 -- update friend DB succeed
+[2025/09/11 14:19:52] 63 -- update friend DB succeed
+[2025/09/11 14:24:52] 64 -- update friend DB succeed
+[2025/09/11 14:29:52] 65 -- update friend DB succeed
+[2025/09/11 14:34:52] 66 -- update friend DB succeed
+[2025/09/11 14:39:52] 67 -- update friend DB succeed
+[2025/09/11 14:44:52] 68 -- update friend DB succeed
+[2025/09/11 14:49:52] 69 -- update friend DB succeed
+[2025/09/11 14:54:52] 70 -- update friend DB succeed
+[2025/09/11 14:59:52] 71 -- update friend DB succeed
+[2025/09/11 15:04:52] 72 -- update friend DB succeed
+[2025/09/11 15:09:52] 73 -- update friend DB succeed
+[2025/09/11 15:14:52] 74 -- update friend DB succeed
+[2025/09/11 15:19:52] 75 -- update friend DB succeed
+[2025/09/11 15:24:52] 76 -- update friend DB succeed
+[2025/09/11 15:29:52] 77 -- update friend DB succeed
+[2025/09/11 15:34:52] 78 -- update friend DB succeed
+[2025/09/11 15:39:52] 79 -- update friend DB succeed
+[2025/09/11 15:44:52] 80 -- update friend DB succeed
+[2025/09/11 15:49:52] 81 -- update friend DB succeed
+[2025/09/11 15:54:52] 82 -- update friend DB succeed
+[2025/09/11 15:59:52] 83 -- update friend DB succeed
+[2025/09/11 16:04:52] 84 -- update friend DB succeed
+[2025/09/11 16:09:52] 85 -- update friend DB succeed
+[2025/09/11 16:14:52] 86 -- update friend DB succeed
+[2025/09/11 16:19:52] 87 -- update friend DB succeed
+[2025/09/11 16:21:28] 88 -- DBRole client close: 192.168.254.53
+[2025/09/11 16:21:28] 89 -- enable reclient: db
+[2025/09/11 16:21:40] 90 -- try reclient: db - 192.168.254.53
+[2025/09/11 16:21:40] 91 -- disable reclient: db
+[2025/09/11 16:21:40] 92 -- DBRole client create: 192.168.254.53
+[2025/09/11 16:23:34] 93 -- Destroy Channel: <00000002> \S905881792
+[2025/09/11 16:23:34] 94 -- Destroy Channel: <00000003> \F2
+[2025/09/11 16:23:34] 95 -- Destroy Channel: <00000004> \B905881792
+[2025/09/11 16:23:34] 96 -- player logout: kenny

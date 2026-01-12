@@ -1,0 +1,37 @@
+EqName	SwordShieldWFreeStand	ShieldSwordWFreeStand	FreeStand1	FreeStand2	FreeStand3	MeleeWStand	RangeWStand	DoubleWStand	SwordShieldWStand	ShieldSwordWStand	GuqinWStand1	GuqinWStand2	FreeWalk	NormalWalk	MeleeWWalk	RangeWWalk	DoubleWWalk	SwordShieldWWalk	ShieldSwordWWalk	GuqinWWalk	FreeRun	NormalRun	MeleeWRun	RangeWRun	DoubleWRun	SwordShieldWRun	ShieldSwordWRun	GuqinWRun	FreeWound	MeleeWWound	RangeWWound	DoubleWWound	SwordShieldWWound	ShieldSwordWWound	GuqinWWound	FreeDie	MeleeWDie	RangeWDie	DoubleWDie	SwordShieldWDie	ShieldSwordWDie	GuqinWDie	FreeAttack	MeleeWPuncture	MeleeWCut	RangeWPuncture	RangeWCut	DoubleWPull	DoubleWPound	SwordShieldWChop	SwordShieldWCut	ShieldSwordWChop	ShieldSwordWCut	GuqinWPuncture	GuqinWCut	DartThrow	FreeMagic	MeleeWMagic	RangeWMagic	DoubleWMagic	SwordShieldWMagic	ShieldSwordWMagic	GuqinWMagic	SitDown	Jump	RideStand	RideWalk	RideRun	RideCut	RidePuncture	RideMagic	RideWound	RideDie	RideStand1	RideStand2
+XÝch Thè																																																																											
+Chieu Da																																																																											
+TuyÖt µnh																																																																											
+Ngùa ®en																																																																											
+Ngùa x¸m xanh																																																																											
+Ngùa bêm b¹c																																																																											
+Ngùa 7																																																																											
+Tøc S­¬ng																																																																											
+Ngùa 9																																																																											
+Ngùa ®Çu bäc thÐp																																																																											
+Bon Tieu Pink																																																																		horse_resize\115_rs01.spr	horse_resize\115_rw.spr	horse_resize\115_rr.spr	horse_resize\115_ra01.spr	horse_resize\115_ra02.spr	horse_resize\115_rm.spr	horse_resize\115_rb.spr	horse_resize\115_rd.spr	horse_resize\115_rs01.spr	horse_resize\115_rs01.spr
+Phien Vu																																																																		horse_resize\114_rs01.spr	horse_resize\114_rw.spr	horse_resize\114_rr.spr	horse_resize\114_ra01.spr	horse_resize\114_ra02.spr	horse_resize\114_rm.spr	horse_resize\114_rb.spr	horse_resize\114_rd.spr	horse_resize\114_rs01.spr	horse_resize\114_rs01.spr
+Phi Van - Red																																																																		horse_resize\118_rs01.spr	horse_resize\118_rw.spr	horse_resize\118_rr.spr	horse_resize\118_ra01.spr	horse_resize\118_ra02.spr	horse_resize\118_rm.spr	horse_resize\118_rb.spr	horse_resize\118_rd.spr	horse_resize\118_rs01.spr	horse_resize\118_rs01.spr
+XÝch Long C©u																																																																											
+Kh«ng cã																																																																											
+XÝch Long C©u mÆt tr¾ng																																																																											
+Kinh Loi																																																																		horse_resize\114_rs01.spr	horse_resize\114_rw.spr	horse_resize\114_rr.spr	horse_resize\114_ra01.spr	horse_resize\114_ra02.spr	horse_resize\114_rm.spr	horse_resize\114_rb.spr	horse_resize\114_rd.spr	horse_resize\114_rs01.spr	horse_resize\114_rs01.spr
+Siªu Quang																																																																											
+Cäp tr¾ng x¸m																																																																											
+Cäp vµng																																																																											
+Trïng 20																																																																											
+Cäp ®en																																																																											
+H·n HuyÕt																																																																		horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr	horse_effect_a.spr
+S­ tö tr¾ng																																																																											
+L¹c ®µ 2 b­íu																																																																											
+D­¬ng §µ xanh																																																																											
+Nai gi¸ng sinh nhá																																																																											
+Ngùa HK xanh																																																																											
+Ngùa HK hång																																																																											
+Ngùa HK vµng																																																																											
+Ngùa HK ®en																																																																											
+Lam L©n ThÇn Léc																																																																											
+Kh«ng cã																																																																											
+Kh«ng cã																																																																											
+ChiÕn Lang																																																																											
+Heo Rõng																																																																											

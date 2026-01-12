@@ -1,0 +1,90 @@
+//Thử để fix lỗi hiển thị sai item
+
+#include <mutex>
+#include <atomic>
+
+class KItemSet {
+public:
+    void SetID(IN int nIdx) {
+        std::lock_guard<std::mutex> lock(mutex); // Lock mutex để đảm bảo chỉ một luồng có thể thực hiện đặt ID tại một thời điểm
+        Item[nIdx].SetID(m_dwIDCreator);
+        m_dwIDCreator++;
+    }
+
+private:
+    std::mutex mutex; // Khai báo một mutex để sử dụng cho việc đồng bộ hóa
+    KItem Item[MAX_ITEM]; // Mảng lưu trữ các item
+    std::atomic<int> m_dwIDCreator{0}; // Sử dụng atomic để đảm bảo thao tác tăng giảm giá trị ID là an toàn
+};
+
+
+
+//thử để fix lỗi generate item sai
+
+int KItemSet::Add(IN int nItemNature, int nItemGenre, int nSeries,
+    int nLevel, int nLuck, int nDetailType/*=-1*/,
+    int nParticularType/*=-1*/, int* pnMagicLevel, int nVersion/*=0*/, UINT nRandomSeed)
+{
+    int i = FindFree();
+
+    if (i == 0)
+        return 0;
+
+    KItem* pItem = &Item[i];
+    pItem->m_GeneratorParam.nVersion = nVersion;
+    pItem->m_GeneratorParam.uRandomSeed = nRandomSeed;
+
+    // Đặt NATURE từ giá trị nItemNature
+    pItem->SetNature(nItemNature);
+
+    switch (nItemGenre)
+    {
+    case item_equip:            // Loại trang bị
+        ItemGen.Gen_Equipment(nItemNature, nItemGenre, nDetailType, nParticularType, nSeries, nLevel, pnMagicLevel, nLuck, nVersion, pItem);
+        break;
+    case item_medicine:         // Loại thuốc
+        ItemGen.Gen_Medicine(nDetailType, nLevel, nVersion, pItem);
+        break;
+    case item_event:            // Loại sự kiện
+        ItemGen.Gen_Event(nDetailType, pItem);
+        break;
+    case item_materials:        // Loại vật liệu
+        break;
+    case item_task:             // Mặc định là loại nhiệm vụ
+        ItemGen.Gen_Quest(nDetailType, pItem);
+        break;
+    case item_magicscript:
+        ItemGen.Gen_MagicScript(nDetailType, pItem, nLevel, nSeries, nLuck);
+        break;
+    case item_townportal:
+        ItemGen.Gen_TownPortal(nDetailType, pItem);
+        break;
+    default:
+        break;
+    }
+
+
+#ifdef _SERVER
+    SetID(i);
+#endif
+    m_FreeIdx.Remove(i);
+    m_UseIdx.Insert(i);
+    return i;
+}
+
+
+//KRegion.h
+private:
+    std::mutex mutex; // Khai báo một mutex để sử dụng cho việc đồng bộ hóa
+
+//KRegion.cpp
+BOOL AddRef(int nMapX, int nMapY, MOVE_OBJ_KIND nType) {
+    #ifdef _SERVER
+        std::lock_guard<std::mutex> lock(mutex); 
+    #endif
+ }
+
+BOOL DecRef(int nMapX, int nMapY, MOVE_OBJ_KIND nType) {
+        // Lock mutex để đảm bảo chỉ một luồng có thể thực hiện hàm này tại một thời điểm
+        std::lock_guard<std::mutex> lock(mutex); 
+}

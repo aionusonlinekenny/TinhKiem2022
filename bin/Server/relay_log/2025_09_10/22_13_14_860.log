@@ -1,0 +1,37 @@
+
+*
+***** S3Relay Start (@ 2025/09/10 22:13:14.860) >>>>>
+*
+
+[2025/09/10 22:13:14] 1 -- Initializing ...
+[2025/09/10 22:13:14] 2 -- Create Channel: [Stock, GM] <00000000> GM
+[2025/09/10 22:13:14] 3 -- Create Channel: [Stock] <00000001>  ¿ΩÁ
+[2025/09/10 22:13:14] 4 -- friend timing update db: start
+[2025/09/10 22:13:14] 5 -- relay server startup
+[2025/09/10 22:13:14] 6 -- root client create: 192.168.254.53
+[2025/09/10 22:13:14] 7 -- DBRole client create: 192.168.254.53
+[2025/09/10 22:13:14] 8 -- root client close: 192.168.254.53
+[2025/09/10 22:13:14] 9 -- gateway client create: 192.168.254.53
+[2025/09/10 22:13:14] 10 -- host server startup
+[2025/09/10 22:13:14] 11 -- tong server startup
+[2025/09/10 22:13:14] 12 -- chat server startup
+[2025/09/10 22:13:14] 13 -- SockThread start success
+[2025/09/10 22:13:14] 14 -- tong database openning
+[2025/09/10 22:13:14] 15 -- ------------ nTongNum 0 ? -------------
+[2025/09/10 22:13:14] 16 -- tongset init ok ! Number Tong: 0
+[2025/09/10 22:13:14] 17 -- Initialize OK
+[2025/09/10 22:13:29] 18 -- host connect create: 192.168.254.53
+[2025/09/10 22:13:29] 19 -- chat connect create: 192.168.254.53
+[2025/09/10 22:13:29] 20 -- tong connect create: 192.168.254.53
+[2025/09/10 22:18:17] 21 -- update friend DB succeed
+[2025/09/10 22:23:17] 22 -- update friend DB succeed
+[2025/09/10 22:28:17] 23 -- update friend DB succeed
+[2025/09/10 22:33:17] 24 -- update friend DB succeed
+[2025/09/10 22:38:17] 25 -- update friend DB succeed
+[2025/09/10 22:43:17] 26 -- update friend DB succeed
+[2025/09/10 22:48:17] 27 -- update friend DB succeed
+[2025/09/10 22:53:17] 28 -- update friend DB succeed
+[2025/09/10 22:58:17] 29 -- update friend DB succeed
+[2025/09/10 23:03:17] 30 -- update friend DB succeed
+[2025/09/10 23:08:17] 31 -- update friend DB succeed
+[2025/09/10 23:13:17] 32 -- update friend DB succeed

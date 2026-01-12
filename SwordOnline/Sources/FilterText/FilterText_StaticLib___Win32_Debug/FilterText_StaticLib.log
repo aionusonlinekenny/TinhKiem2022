@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (.\FilterText_StaticLib___Win32_Debug\) contains files shared from another project (FilterText_StaticLib.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Regexp.cpp
+E:\Sword3\src-tinh-kiem\01.tinh-kiem-vs2022\SwordOnline\Sources\FilterText\Regexp.cpp(1700,23): warning C4018: '<': signed/unsigned mismatch
+E:\Sword3\src-tinh-kiem\01.tinh-kiem-vs2022\SwordOnline\Sources\FilterText\Regexp.cpp(1728,4): warning C4996: '_tcsncpy': This function or variable may be unsafe. Consider using _tcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FilterText.cpp
+  Generating Code...
+E:\Sword3\src-tinh-kiem\01.tinh-kiem-vs2022\SwordOnline\Sources\FilterText\Regexp.cpp(266,1): warning C4700: uninitialized local variable 'perr' used
+  FilterText_StaticLib.vcxproj -> E:\Sword3\src-tinh-kiem\01.tinh-kiem-vs2022\SwordOnline\Sources\FilterText\FilterText_StaticLib___Win32_Debug\FilterText_StaticLib.lib
+          1 file(s) copied.

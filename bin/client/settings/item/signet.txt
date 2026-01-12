@@ -1,0 +1,31 @@
+Ãû³Æ	µÀ¾ßÖÖÀà	¾ßÌåÀà±ğ	ÏêÏ¸Àà±ğ	¶¯»­ÎÄ¼şÃû	¶ÔÓ¦Îï¼şË÷Òı	¿í¶È	¸ß¶È	ËµÃ÷ÎÄ×Ö	ÎåĞĞÊôĞÔ	¼Û¸ñ	µÈ¼¶	»ù´¡ÊôĞÔ1ÀàĞÍ	»ù´¡ÊôĞÔ1×îĞ¡Öµ	»ù´¡ÊôĞÔ1×î´óÖµ	»ù´¡ÊôĞÔ2ÀàĞÍ	»ù´¡ÊôĞÔ2×îĞ¡Öµ	»ù´¡ÊôĞÔ2×î´óÖµ	»ù´¡ÊôĞÔ3ÀàĞÍ	»ù´¡ÊôĞÔ3×îĞ¡Öµ	»ù´¡ÊôĞÔ3×î´óÖµ	»ù´¡ÊôĞÔ4ÀàĞÍ	»ù´¡ÊôĞÔ4×îĞ¡Öµ	»ù´¡ÊôĞÔ4×î´óÖµ	»ù´¡ÊôĞÔ5ÀàĞÍ	»ù´¡ÊôĞÔ5×îĞ¡Öµ	»ù´¡ÊôĞÔ5×î´óÖµ	»ù´¡ÊôĞÔ6ÀàĞÍ	»ù´¡ÊôĞÔ6×îĞ¡Öµ	»ù´¡ÊôĞÔ6×î´óÖµ	»ù´¡ÊôĞÔ7ÀàĞÍ	»ù´¡ÊôĞÔ7×îĞ¡Öµ	»ù´¡ÊôĞÔ7×î´óÖµ	ĞèÇóÊôĞÔ1ÀàĞÍ	ĞèÇóÊôĞÔ1ÊıÖµ	ĞèÇóÊôĞÔ2ÀàĞÍ	ĞèÇóÊôĞÔ2ÊıÖµ	ĞèÇóÊôĞÔ3ÀàĞÍ	ĞèÇóÊôĞÔ3ÊıÖµ	ĞèÇóÊôĞÔ4ÀàĞÍ	ĞèÇóÊôĞÔ4ÊıÖµ	ĞèÇóÊôĞÔ5ÀàĞÍ	ĞèÇóÊôĞÔ5ÊıÖµ	ĞèÇóÊôĞÔ6ÀàĞÍ	ĞèÇóÊôĞÔ6ÊıÖµ
+Hoµng Kim Ên (C­êng hãa)	0	13	0	\spr\item\script\wuxingyin_1.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	1	246	100	100																			36	120										
+Hoµng Kim Ên (C­êng hãa)	0	13	0	\spr\item\script\wuxingyin_1.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	2	246	200	200																			36	120										
+Hoµng Kim Ên (C­êng hãa)	0	13	0	\spr\item\script\wuxingyin_1.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	3	246	300	300																			36	120										
+Hoµng Kim Ên (C­êng hãa)	0	13	0	\spr\item\script\wuxingyin_1.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	4	246	400	400																			36	120										
+Hoµng Kim Ên (C­êng hãa)	0	13	0	\spr\item\script\wuxingyin_2.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	5	246	500	500																			36	120										
+Hoµng Kim Ên (C­êng hãa)	0	13	0	\spr\item\script\wuxingyin_2.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	6	246	600	600																			36	120										
+Hoµng Kim Ên (C­êng hãa)	0	13	0	\spr\item\script\wuxingyin_2.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	7	246	700	700																			36	120										
+Hoµng Kim Ên (C­êng hãa)	0	13	0	\spr\item\script\wuxingyin_3.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	8	246	800	800																			36	120										
+Hoµng Kim Ên (C­êng hãa)	0	13	0	\spr\item\script\wuxingyin_3.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	9	246	900	900																			36	120										
+Hoµng Kim Ên (C­êng hãa)	0	13	0	\spr\item\script\wuxingyin_3.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	10	246	1000	1000																			36	120										
+Hoµng Kim Ên (Nh­îc hãa)	0	13	1	\spr\item\script\wuxingyin_1.spr	37	1	1	Gi¶m hiÖu qu¶ ngò hµnh t­¬ng kh¾c	5	999	1	247	100	100																			36	120										
+Hoµng Kim Ên (Nh­îc hãa)	0	13	1	\spr\item\script\wuxingyin_1.spr	37	1	1	Gi¶m hiÖu qu¶ ngò hµnh t­¬ng kh¾c	5	999	2	247	200	200																			36	120										
+Hoµng Kim Ên (Nh­îc hãa)	0	13	1	\spr\item\script\wuxingyin_1.spr	37	1	1	Gi¶m hiÖu qu¶ ngò hµnh t­¬ng kh¾c	5	999	3	247	300	300																			36	120										
+Hoµng Kim Ên (Nh­îc hãa)	0	13	1	\spr\item\script\wuxingyin_1.spr	37	1	1	Gi¶m hiÖu qu¶ ngò hµnh t­¬ng kh¾c	5	999	4	247	400	400																			36	120										
+Hoµng Kim Ên (Nh­îc hãa)	0	13	1	\spr\item\script\wuxingyin_2.spr	37	1	1	Gi¶m hiÖu qu¶ ngò hµnh t­¬ng kh¾c	5	999	5	247	500	500																			36	120										
+Hoµng Kim Ên (Nh­îc hãa)	0	13	1	\spr\item\script\wuxingyin_2.spr	37	1	1	Gi¶m hiÖu qu¶ ngò hµnh t­¬ng kh¾c	5	999	6	247	600	600																			36	120										
+Hoµng Kim Ên (Nh­îc hãa)	0	13	1	\spr\item\script\wuxingyin_2.spr	37	1	1	Gi¶m hiÖu qu¶ ngò hµnh t­¬ng kh¾c	5	999	7	247	700	700																			36	120										
+Hoµng Kim Ên (Nh­îc hãa)	0	13	1	\spr\item\script\wuxingyin_3.spr	37	1	1	Gi¶m hiÖu qu¶ ngò hµnh t­¬ng kh¾c	5	999	8	247	800	800																			36	120										
+Hoµng Kim Ên (Nh­îc hãa)	0	13	1	\spr\item\script\wuxingyin_3.spr	37	1	1	Gi¶m hiÖu qu¶ ngò hµnh t­¬ng kh¾c	5	999	9	247	900	900																			36	120										
+Hoµng Kim Ên (Nh­îc hãa)	0	13	1	\spr\item\script\wuxingyin_3.spr	37	1	1	Gi¶m hiÖu qu¶ ngò hµnh t­¬ng kh¾c	5	999	10	247	1000	1000																			36	120										
+Ngò Hµnh Ên	0	13	2	\spr\item\script\wuxingyin_1.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	10	246	100	100	247	100	100	85	100	100													36	120										
+Ngò Hµnh Ên	0	13	2	\spr\item\script\wuxingyin_1.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	10	246	200	200	247	200	200	85	200	200													36	120										
+Ngò Hµnh Ên	0	13	2	\spr\item\script\wuxingyin_1.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	10	246	300	300	247	300	300	85	300	300													36	120										
+Ngò Hµnh Ên	0	13	2	\spr\item\script\wuxingyin_1.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	10	246	400	400	247	400	400	85	400	400													36	120										
+Ngò Hµnh Ên	0	13	2	\spr\item\script\wuxingyin_2.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	10	246	500	500	247	500	500	85	500	500													36	120										
+Ngò Hµnh Ên	0	13	2	\spr\item\script\wuxingyin_2.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	10	246	600	600	247	600	600	85	600	600													36	120										
+Ngò Hµnh Ên	0	13	2	\spr\item\script\wuxingyin_2.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	10	246	700	700	247	700	700	85	700	700													36	120										
+Ngò Hµnh Ên	0	13	2	\spr\item\script\wuxingyin_3.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	10	246	800	800	247	800	800	85	800	800													36	120										
+Ngò Hµnh Ên	0	13	2	\spr\item\script\wuxingyin_3.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	10	246	900	900	247	900	900	85	900	900													36	120										
+Ngò Hµnh Ên	0	13	2	\spr\item\script\wuxingyin_3.spr	37	1	1	T¨ng hiÖu qu¶ t­¬ng kh¾c cña ngò hµnh	5	999	10	246	1000	1000	247	1000	1000	85	1000	1000													36	120										

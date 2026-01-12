@@ -1,0 +1,70 @@
+
+*
+***** S3Relay Start (@ 2025/09/10 11:59:53.442) >>>>>
+*
+
+[2025/09/10 11:59:53] 1 -- Initializing ...
+[2025/09/10 11:59:53] 2 -- Create Channel: [Stock, GM] <00000000> GM
+[2025/09/10 11:59:53] 3 -- Create Channel: [Stock] <00000001> 世界
+[2025/09/10 11:59:53] 4 -- friend timing update db: start
+[2025/09/10 11:59:53] 5 -- relay server startup
+[2025/09/10 11:59:53] 6 -- root client create: 192.168.254.53
+[2025/09/10 11:59:53] 7 -- DBRole client create: 192.168.254.53
+[2025/09/10 11:59:53] 8 -- root client close: 192.168.254.53
+[2025/09/10 11:59:53] 9 -- gateway client create: 192.168.254.53
+[2025/09/10 11:59:53] 10 -- host server startup
+[2025/09/10 11:59:53] 11 -- tong server startup
+[2025/09/10 11:59:53] 12 -- chat server startup
+[2025/09/10 11:59:53] 13 -- SockThread start success
+[2025/09/10 11:59:53] 14 -- tong database openning
+[2025/09/10 11:59:53] 15 -- ------------ nTongNum 0 ? -------------
+[2025/09/10 11:59:53] 16 -- tongset init ok ! Number Tong: 0
+[2025/09/10 11:59:53] 17 -- Initialize OK
+[2025/09/10 12:00:08] 18 -- host connect create: 192.168.254.53
+[2025/09/10 12:00:08] 19 -- chat connect create: 192.168.254.53
+[2025/09/10 12:00:08] 20 -- tong connect create: 192.168.254.53
+[2025/09/10 12:00:32] 21 -- load someone: Test01
+[2025/09/10 12:00:32] 22 -- player login: kenny [Test01] (35FEA8C0, 00000000)
+[2025/09/10 12:00:32] 23 -- sync friend list: Test01 (full)
+[2025/09/10 12:00:32] 24 -- Query ChannelID: \S from (35FEA8C0, 00000000)
+[2025/09/10 12:00:32] 25 -- Create Channel: <00000002> \S905881792
+[2025/09/10 12:00:32] 26 -- Query ChannelID: 世界 from (35FEA8C0, 00000000)
+[2025/09/10 12:00:32] 27 -- Query ChannelID: GM from (35FEA8C0, 00000000)
+[2025/09/10 12:00:32] 28 -- Query ChannelID: \B from (35FEA8C0, 00000000)
+[2025/09/10 12:00:32] 29 -- Create Channel: <00000003> \B905881792
+[2025/09/10 12:00:32] 30 -- Query ChannelID: \S from (35FEA8C0, 00000000)
+[2025/09/10 12:00:32] 31 -- Query ChannelID: 世界 from (35FEA8C0, 00000000)
+[2025/09/10 12:00:32] 32 -- Query ChannelID: GM from (35FEA8C0, 00000000)
+[2025/09/10 12:00:32] 33 -- Query ChannelID: \B from (35FEA8C0, 00000000)
+[2025/09/10 12:00:32] 34 -- Subscribe Channel: 00000002 by (35FEA8C0,00000000)
+[2025/09/10 12:00:32] 35 -- Subscribe Channel: 00000001 by (35FEA8C0,00000000)
+[2025/09/10 12:00:32] 36 -- Subscribe Channel: GM <00000000> by (35FEA8C0,00000000)
+[2025/09/10 12:00:32] 37 -- Subscribe Channel: 00000003 by (35FEA8C0,00000000)
+[2025/09/10 12:00:32] 38 -- Subscribe Channel: 00000002 by (35FEA8C0,00000000)
+[2025/09/10 12:00:32] 39 -- Subscribe Channel: 00000001 by (35FEA8C0,00000000)
+[2025/09/10 12:00:32] 40 -- Subscribe Channel: GM <00000000> by (35FEA8C0,00000000)
+[2025/09/10 12:00:32] 41 -- Subscribe Channel: 00000003 by (35FEA8C0,00000000)
+[2025/09/10 12:00:44] 42 -- Chat Channel: sentence 6 Bs from [Test01] on <00000002>
+[2025/09/10 12:00:53] 43 -- Chat Channel: sentence 12 Bs from [Test01] on <00000002>
+[2025/09/10 12:04:59] 44 -- update friend DB succeed
+[2025/09/10 12:09:56] 45 -- update friend DB succeed
+[2025/09/10 12:14:56] 46 -- update friend DB succeed
+[2025/09/10 12:19:56] 47 -- update friend DB succeed
+[2025/09/10 12:24:56] 48 -- update friend DB succeed
+[2025/09/10 12:29:56] 49 -- update friend DB succeed
+[2025/09/10 12:34:56] 50 -- update friend DB succeed
+[2025/09/10 12:39:56] 51 -- update friend DB succeed
+[2025/09/10 12:44:57] 52 -- update friend DB succeed
+[2025/09/10 12:49:57] 53 -- update friend DB succeed
+[2025/09/10 12:54:57] 54 -- update friend DB succeed
+[2025/09/10 12:59:57] 55 -- update friend DB succeed
+[2025/09/10 13:04:57] 56 -- update friend DB succeed
+[2025/09/10 13:09:57] 57 -- update friend DB succeed
+[2025/09/10 13:14:57] 58 -- update friend DB succeed
+[2025/09/10 13:19:57] 59 -- update friend DB succeed
+[2025/09/10 13:24:57] 60 -- update friend DB succeed
+[2025/09/10 13:29:57] 61 -- update friend DB succeed
+[2025/09/10 13:30:06] 62 -- Query ChannelID: \F1 from (35FEA8C0, 00000000)
+[2025/09/10 13:30:06] 63 -- Create Channel: <00000004> \F1
+[2025/09/10 13:30:06] 64 -- Subscribe Channel: 00000004 by (35FEA8C0,00000000)
+[2025/09/10 13:34:57] 65 -- update friend DB succeed

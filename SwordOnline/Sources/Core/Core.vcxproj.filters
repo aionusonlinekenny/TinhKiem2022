@@ -1,0 +1,712 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Lib">
+      <UniqueIdentifier>{4d5adab9-8f98-4ad1-8efc-525e425e63c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lib\Release">
+      <UniqueIdentifier>{729c2d69-c164-4c0a-90e3-16658230fba7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lib\Debug">
+      <UniqueIdentifier>{309b46a5-585d-4498-a3e6-0429042f51f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="USBKey">
+      <UniqueIdentifier>{c51ecc6b-63c3-4a4e-9ee4-49667e62785a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CoreGameDef">
+      <UniqueIdentifier>{33b24d35-2139-4965-994a-5f3b5e36c5be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KRegion">
+      <UniqueIdentifier>{1e7aaf27-a21a-42cc-aadb-1b55fe8eee1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KMissle &amp; Skill">
+      <UniqueIdentifier>{31442f31-5556-40a5-9348-c870a21f2238}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KScript">
+      <UniqueIdentifier>{fa87c8e3-bf94-479a-ace2-2fc2174e1f5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KScript\µ¥²½ÐÔ½Å±¾">
+      <UniqueIdentifier>{130d756f-09ae-4969-aaa1-248a3c42dd7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KScene">
+      <UniqueIdentifier>{a1b63025-2aba-48c5-bfc5-2670bda197ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KScene\³¡¾°ÖÐ¶ÔÏóÓë¶ÔÏóÊ÷">
+      <UniqueIdentifier>{85281a8e-51fe-4191-bf96-bedaa4dc4e83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KMagicAttrib">
+      <UniqueIdentifier>{751ea31b-0719-40c1-95ad-30ceb3616bb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KLadder">
+      <UniqueIdentifier>{9e07bda1-9980-4e42-b255-c5a923976e71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KProtocol">
+      <UniqueIdentifier>{eaae681c-2384-4f04-a818-c064ddcac43b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KCore &amp; SubWorld">
+      <UniqueIdentifier>{168c028d-042a-44e7-ac66-dc6f1a80a3cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KPlayer &amp; Npc">
+      <UniqueIdentifier>{385f0002-e9dc-4f1c-a69b-dd61609a6f43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KMission">
+      <UniqueIdentifier>{334011e2-6711-4498-813f-1542518b0818}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="S3DBInterface">
+      <UniqueIdentifier>{780c2510-699c-45d5-bbbd-e43e7c5b1888}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KMath">
+      <UniqueIdentifier>{73c083b3-6956-4e08-8280-6431407447d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KGMCommand">
+      <UniqueIdentifier>{d05ff5cf-987e-4a95-a8cc-c027ccba4bc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CoreDrawGame">
+      <UniqueIdentifier>{dad4d66e-9829-4032-bfc3-9e672cd3ac1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KItem &amp; BuySell">
+      <UniqueIdentifier>{88afa589-c38b-40ad-beb0-6acebb801b24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KWorldMsg">
+      <UniqueIdentifier>{c6408392-1f0c-4d8d-8dbd-017f28aa5d83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KOption">
+      <UniqueIdentifier>{888739e4-1efd-4ade-95a2-e504f53c8715}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KMapMusic">
+      <UniqueIdentifier>{9982193f-052d-4edf-bc4f-933190f38e11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KMissle &amp; Skill\KThiefSkill">
+      <UniqueIdentifier>{a2af291f-07aa-4d1a-b0d6-7b36f87cdb6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KMissle &amp; Skill\KPartnerSkill">
+      <UniqueIdentifier>{a4bfb581-29be-4f4e-9501-6b40c447e3bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KScript\ScriptFuns">
+      <UniqueIdentifier>{9c93a9be-1f74-4cc7-8e22-7b799ee3bb35}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Src\KPartnerSkill.cpp">
+      <Filter>KMissle &amp; Skill\KPartnerSkill</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KPlayerPartner.cpp">
+      <Filter>KMissle &amp; Skill\KPartnerSkill</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KThiefSkill.cpp">
+      <Filter>KMissle &amp; Skill\KThiefSkill</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KMissle.cpp">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KMissleRes.cpp">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KMissleSet.cpp">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KSkillList.cpp">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KSkillManager.cpp">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KSkills.cpp">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KSkillSpecial.cpp">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Skill.cpp">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KFaction.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KGameData.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KNpc.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KNpcAI.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KNpcAttribModify.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KNpcDeathCalcExp.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KNpcFindPath.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KNpcRes.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KNpcResList.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KNpcResNode.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KNpcSet.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KNpcTemplate.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KPlayer.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KPlayerAI.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KPlayerChat.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KPlayerChatRoom.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KPlayerDBFuns.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KPlayerFaction.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KPlayerMenuState.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KPlayerPK.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KPlayerSet.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KPlayerTask.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KPlayerTeam.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KPlayerTong.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KPlayerTrade.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KSprControl.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KTongData.cpp">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KBasPropTbl.CPP">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KBuySell.cpp">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KInventory.cpp">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KItem.cpp">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KItemChangeRes.cpp">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KItemGenerator.CPP">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KItemList.cpp">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KItemSet.cpp">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KObj.cpp">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KObjSet.cpp">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KSellItem.cpp">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KViewItem.cpp">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KCore.cpp">
+      <Filter>KCore &amp; SubWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KSubWorld.cpp">
+      <Filter>KCore &amp; SubWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KSubWorldSet.cpp">
+      <Filter>KCore &amp; SubWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KWeatherMgr.cpp">
+      <Filter>KCore &amp; SubWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KRegion.cpp">
+      <Filter>KRegion</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KWorldMsg.cpp">
+      <Filter>KWorldMsg</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KMath.cpp">
+      <Filter>KMath</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KGMProcess.cpp">
+      <Filter>KProtocol</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KNewProtocolProcess.cpp">
+      <Filter>KProtocol</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KProtocol.cpp">
+      <Filter>KProtocol</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KProtocolProcess.cpp">
+      <Filter>KProtocol</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ScriptFuns.cpp">
+      <Filter>KScript\ScriptFuns</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\LuaFuns.cpp">
+      <Filter>KScript\µ¥²½ÐÔ½Å±¾</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KScriptValueSet.cpp">
+      <Filter>KScript</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KSortScript.cpp">
+      <Filter>KScript</Filter>
+    </ClCompile>
+    <ClCompile Include="src\CoreServerShell.cpp">
+      <Filter>CoreGameDef</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\CoreShell.cpp">
+      <Filter>CoreGameDef</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scene\KIpotBranch.cpp">
+      <Filter>KScene\³¡¾°ÖÐ¶ÔÏóÓë¶ÔÏóÊ÷</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scene\KIpotLeaf.cpp">
+      <Filter>KScene\³¡¾°ÖÐ¶ÔÏóÓë¶ÔÏóÊ÷</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scene\KIpoTree.cpp">
+      <Filter>KScene\³¡¾°ÖÐ¶ÔÏóÓë¶ÔÏóÊ÷</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scene\KScenePlaceC.cpp">
+      <Filter>KScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scene\KScenePlaceRegionC.cpp">
+      <Filter>KScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scene\KWeather.cpp">
+      <Filter>KScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scene\SceneMath.cpp">
+      <Filter>KScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scene\ScenePlaceMapC.cpp">
+      <Filter>KScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\CoreDrawGameObj.cpp">
+      <Filter>CoreDrawGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ImgRef.cpp">
+      <Filter>CoreDrawGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KMagicDesc.cpp">
+      <Filter>KMagicAttrib</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KGMCommand.cpp">
+      <Filter>KGMCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KMission.cpp">
+      <Filter>KMission</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KTaskFuns.cpp">
+      <Filter>KMission</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KOption.cpp">
+      <Filter>KOption</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KMapMusic.cpp">
+      <Filter>KMapMusic</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KLadder.cpp">
+      <Filter>KLadder</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\stdafx.cpp" />
+    <ClCompile Include="Src\KLittleMap.cpp">
+      <Filter>KRegion</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\KDropScript.cpp" />
+    <ClCompile Include="Src\KLogFile.cpp" />
+    <ClCompile Include="Src\KNpcGold.cpp" />
+    <ClCompile Include="KJXPathFinder.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Src\KPartnerSkill.h">
+      <Filter>KMissle &amp; Skill\KPartnerSkill</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KPlayerPartner.h">
+      <Filter>KMissle &amp; Skill\KPartnerSkill</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KMissle.h">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KMissleMagicAttribsData.h">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KMissleRes.h">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KMissleSet.h">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KSkillList.h">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KSkillManager.h">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KSkills.h">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KSkillSpecial.h">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Skill.h">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\SkillDef.h">
+      <Filter>KMissle &amp; Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KFaction.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KGameData.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KNpc.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KNpcAI.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KNpcAttribModify.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KNpcDeathCalcExp.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KNpcFindPath.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KNpcRes.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KNpcResList.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KNpcResNode.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KNpcSet.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KNpcTemplate.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KPlayer.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KPlayerAI.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KPlayerChat.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KPlayerChatRoom.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KPlayerDef.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KPlayerFaction.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KPlayerMenuState.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KPlayerPK.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KPlayerSet.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KPlayerTask.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KPlayerTeam.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KPlayerTong.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KPlayerTrade.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KSprControl.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KTongData.h">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KBasPropTbl.h">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KBuySell.h">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KInventory.h">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KItem.h">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KItemChangeRes.h">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KItemGenerator.h">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KItemList.h">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KItemSet.h">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KObj.h">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KObjSet.h">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KSellItem.h">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KViewItem.h">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\MyAssert.H">
+      <Filter>KItem &amp; BuySell</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KCore.h">
+      <Filter>KCore &amp; SubWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KSubWorld.h">
+      <Filter>KCore &amp; SubWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KSubWorldSet.h">
+      <Filter>KCore &amp; SubWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KWeatherMgr.h">
+      <Filter>KCore &amp; SubWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KRegion.h">
+      <Filter>KRegion</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KWorldMsg.h">
+      <Filter>KWorldMsg</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KMath.h">
+      <Filter>KMath</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KNewProtocolProcess.h">
+      <Filter>KProtocol</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Headers\KProtocolDef.h">
+      <Filter>KProtocol</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KProtocolProcess.h">
+      <Filter>KProtocol</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KScriptValueSet.h">
+      <Filter>KScript</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KSortScript.h">
+      <Filter>KScript</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\LuaFuns.h">
+      <Filter>KScript</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\CoreObjGenreDef.h">
+      <Filter>CoreGameDef</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\CoreServerDataDef.h">
+      <Filter>CoreGameDef</Filter>
+    </ClInclude>
+    <ClInclude Include="src\CoreServerShell.h">
+      <Filter>CoreGameDef</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\CoreShell.h">
+      <Filter>CoreGameDef</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\CoreUseNameDef.h">
+      <Filter>CoreGameDef</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GameDataDef.h">
+      <Filter>CoreGameDef</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KIndexNode.h">
+      <Filter>CoreGameDef</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\MsgGenreDef.h">
+      <Filter>CoreGameDef</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Lib\S3DBInterface.h">
+      <Filter>S3DBInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Scene\KIpotBranch.h">
+      <Filter>KScene\³¡¾°ÖÐ¶ÔÏóÓë¶ÔÏóÊ÷</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Scene\KIpotLeaf.h">
+      <Filter>KScene\³¡¾°ÖÐ¶ÔÏóÓë¶ÔÏóÊ÷</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Scene\KIpoTree.h">
+      <Filter>KScene\³¡¾°ÖÐ¶ÔÏóÓë¶ÔÏóÊ÷</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Scene\KScenePlaceC.h">
+      <Filter>KScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Scene\KScenePlaceRegionC.h">
+      <Filter>KScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Scene\KWeather.h">
+      <Filter>KScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Scene\ObstacleDef.h">
+      <Filter>KScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Scene\SceneDataDef.h">
+      <Filter>KScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Scene\SceneMath.h">
+      <Filter>KScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Scene\ScenePlaceMapC.h">
+      <Filter>KScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\CoreDrawGameObj.h">
+      <Filter>CoreDrawGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ImgRef.h">
+      <Filter>CoreDrawGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KMagicAttrib.h">
+      <Filter>KMagicAttrib</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KMagicDesc.h">
+      <Filter>KMagicAttrib</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KGMCommand.h">
+      <Filter>KGMCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KLinkArrayTemplate.h">
+      <Filter>KMission</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KMission.h">
+      <Filter>KMission</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KMissionArray.h">
+      <Filter>KMission</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KTaskFuns.h">
+      <Filter>KMission</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KOption.h">
+      <Filter>KOption</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KMapMusic.h">
+      <Filter>KMapMusic</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KLadder.h">
+      <Filter>KLadder</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\USBKey\des.h">
+      <Filter>USBKey</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\USBKey\EPASSAPI.H">
+      <Filter>USBKey</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\USBKey\epsJO.h">
+      <Filter>USBKey</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\USBKey\MD5.H">
+      <Filter>USBKey</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KProtocol.h" />
+    <ClInclude Include="Src\KThiefSkill.h">
+      <Filter>KMissle &amp; Skill\KThiefSkill</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KLittleMap.h">
+      <Filter>KRegion</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\KDropScript.h" />
+    <ClInclude Include="Src\KLogFile.h" />
+    <ClInclude Include="Src\KNpcGold.h" />
+    <ClInclude Include="KJXPathFinder.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Src\PlayerPartnerÎÄµµ.txt">
+      <Filter>KMissle &amp; Skill\KPartnerSkill</Filter>
+    </Text>
+    <Text Include="Src\¼¼ÄÜÏµÍ³.txt">
+      <Filter>KMissle &amp; Skill</Filter>
+    </Text>
+    <Text Include="Src\AIÉè¼Æ.txt">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </Text>
+    <Text Include="Src\NPCÏµÍ³.txt">
+      <Filter>KPlayer &amp; Npc</Filter>
+    </Text>
+    <Text Include="Src\½Å±¾ËµÃ÷.txt">
+      <Filter>KScript</Filter>
+    </Text>
+    <Text Include="Src\ÈÎÎñÏµÍ³Éè¼ÆÎÄµµ.txt">
+      <Filter>KMission</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\Lib\debug\engine.lib">
+      <Filter>Lib\Debug</Filter>
+    </Library>
+    <Library Include="..\..\Lib\debug\common.lib">
+      <Filter>Lib\Debug</Filter>
+    </Library>
+    <Library Include="Src\USBKey\EP1KDL20.LIB">
+      <Filter>USBKey</Filter>
+    </Library>
+    <Library Include="Src\USBKey\EpsForJoLib.lib">
+      <Filter>USBKey</Filter>
+    </Library>
+    <Library Include="..\Engine\Release\Engine.lib">
+      <Filter>Lib\Release</Filter>
+    </Library>
+    <Library Include="..\MultiServer\Common\Release\Common.lib">
+      <Filter>Lib\Release</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Protocol.xls">
+      <Filter>KProtocol</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

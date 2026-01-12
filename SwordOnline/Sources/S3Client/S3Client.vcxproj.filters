@@ -1,0 +1,864 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Login">
+      <UniqueIdentifier>{f5a8f919-2584-4b21-86bb-29e713a48d09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TextCtrlCmd">
+      <UniqueIdentifier>{13b64aee-101a-4a2b-a894-2dccc649721c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib">
+      <UniqueIdentifier>{59a954bc-708c-417f-aea7-c04b731023a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib\debug">
+      <UniqueIdentifier>{7cf3cdff-74eb-4cda-a50c-8922fa304d16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib\release">
+      <UniqueIdentifier>{59759fab-3263-4b53-a8f9-7388a893cdeb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NetConnectAgent">
+      <UniqueIdentifier>{a6647353-bc99-4420-bfa8-5baa425cd890}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="S3Client">
+      <UniqueIdentifier>{2a0d73c4-104b-4460-8f4a-5613d60e6b62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI">
+      <UniqueIdentifier>{afbf65cd-d534-4f3a-a4d1-6e3241465980}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\WndCommand">
+      <UniqueIdentifier>{ad23e834-6bee-4e34-9b3b-9150c0e08fd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\UiSoundSetting">
+      <UniqueIdentifier>{c76cc712-2bed-4f7f-a355-86f01631ada2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI">
+      <UniqueIdentifier>{37a029db-2e80-4366-a059-17c92d340584}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiGame">
+      <UniqueIdentifier>{d82be526-995f-42a3-aca9-ae02371764b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiPlayerControl">
+      <UniqueIdentifier>{7d143513-1cd7-47b2-bb5f-1c5a8dda0d63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiSelColor">
+      <UniqueIdentifier>{77559664-70a4-44af-8617-1d0debe40def}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiOption">
+      <UniqueIdentifier>{441cafeb-6f47-418a-b097-1a3967fc0680}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiInformation">
+      <UniqueIdentifier>{fc4f05ac-692f-418b-bab5-2205e98f7fc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiSysMsgCentre">
+      <UniqueIdentifier>{90abbde1-92ad-48c0-b9ad-ec23f2086a84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiTask">
+      <UniqueIdentifier>{2c326bba-69cd-4df1-9d48-28d5dda869ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiWorldMap">
+      <UniqueIdentifier>{4202fcc6-09ab-4a1c-980d-7970950a54fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiNewMessage">
+      <UniqueIdentifier>{680e8b8b-1f9b-4f4e-af8a-ba4f36e1bc7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiNewPlayerStartMsg">
+      <UniqueIdentifier>{467faf92-5bd5-45f3-9f4d-0f04a4dcabe7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiMiniMap">
+      <UniqueIdentifier>{0b46f027-96a8-452c-b3ce-16d3af3adc60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiChatItem">
+      <UniqueIdentifier>{b1ad4e88-fa3f-41eb-b3b9-e8cfd3db7c2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiChatCentre">
+      <UniqueIdentifier>{8fd932f6-7204-49ef-9f75-b9df3adb0f2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiStrengthRank">
+      <UniqueIdentifier>{1f84f050-b9fa-40dc-a31a-dfa5089c24d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiInit">
+      <UniqueIdentifier>{6de2f504-0caa-4260-a3af-4de7e29e5ef6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiNewPlayer">
+      <UniqueIdentifier>{f0adacd2-6868-46ce-b8b5-b51b4012103d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiPlayerShop">
+      <UniqueIdentifier>{1d35e776-286d-4e20-b5ae-916663282032}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiConnectInfo">
+      <UniqueIdentifier>{69e6bbec-fc30-48f8-b1cb-7a787691dc29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiAutoPlay">
+      <UniqueIdentifier>{a7a47467-10c7-4f6f-9dfd-7ff69e9d455d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiHelper">
+      <UniqueIdentifier>{263e3f4c-241b-4bd6-8fa6-ccbef749d696}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiTong">
+      <UniqueIdentifier>{bc63fe10-3e2d-49e4-89d4-9a6897a98c80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiReconnect">
+      <UniqueIdentifier>{4a300808-8baf-4502-b97d-9006c1878cff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiTeamManage">
+      <UniqueIdentifier>{be1d61d1-d826-4425-bed6-189967e7b2f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiEnchase">
+      <UniqueIdentifier>{b547cf2c-45fa-45fc-97ba-afdc23d79d24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiTrembleItem">
+      <UniqueIdentifier>{39409341-53fb-4539-9b41-6ea32d21ce2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiCompoundItem">
+      <UniqueIdentifier>{0f79c5c6-9880-4ea9-9257-cfc1a32f248b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiGive">
+      <UniqueIdentifier>{fd06c835-9b7e-4981-b07a-a82dd194a7a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiMainPlayer">
+      <UniqueIdentifier>{1bfcc154-218b-453b-b076-2fcdc724f6f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiStoreBox">
+      <UniqueIdentifier>{7b5a461f-1d2d-4e14-8586-52e6f5214ef7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiSkill">
+      <UniqueIdentifier>{db74f91d-cb59-426c-8a2e-d405aed623f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiDaTau">
+      <UniqueIdentifier>{6cdd24b3-d0fa-4bd6-a219-7d3defbb565b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainUI\BaseUI\UiItem">
+      <UniqueIdentifier>{e7a1f223-f1c0-4bea-8508-dcb8100932e3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Ui\Elem\AutoLocateWnd.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\ComWindow.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\MouseHover.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\PopupMenu.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\SpaceOver.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\SpecialFuncs.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\TextPic.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\UiCursor.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\UiImage.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndBorder.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndButton.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndEdit.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndImage.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndImagePart.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndLabeledButton.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndList.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndList2.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndMessageListBox.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndMovingImage.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndObjContainer.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndPage.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndPureTextBtn.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\Wnds.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndScrollBar.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\elem\WndShadow.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndShowAnimate.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndText.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndToolBar.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndValueImage.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\Elem\WndWindow.cpp">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiConnectInfo.cpp">
+      <Filter>MainUI\BaseUI\UiConnectInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiLogin.cpp">
+      <Filter>MainUI\BaseUI\UiConnectInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiLoginBg.cpp">
+      <Filter>MainUI\BaseUI\UiConnectInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiNotice.cpp">
+      <Filter>MainUI\BaseUI\UiConnectInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiSelServer.cpp">
+      <Filter>MainUI\BaseUI\UiConnectInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiChooseFace.cpp">
+      <Filter>MainUI\BaseUI\UiPlayerControl</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiContainer.cpp">
+      <Filter>MainUI\BaseUI\UiPlayerControl</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiFaceSelector.cpp">
+      <Filter>MainUI\BaseUI\UiPlayerControl</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiPlayerBar.cpp">
+      <Filter>MainUI\BaseUI\UiPlayerControl</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiPlayerControlBar.cpp">
+      <Filter>MainUI\BaseUI\UiPlayerControl</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiStatus.cpp">
+      <Filter>MainUI\BaseUI\UiPlayerControl</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiOptions.cpp">
+      <Filter>MainUI\BaseUI\UiOption</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiInit.cpp">
+      <Filter>MainUI\BaseUI\UiInit</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiAutoPlay.cpp">
+      <Filter>MainUI\BaseUI\UiAutoPlay</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiESCDlg.cpp">
+      <Filter>MainUI\BaseUI\UiMainPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiGetString.cpp">
+      <Filter>MainUI\BaseUI\UiMainPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiMsgSel.cpp">
+      <Filter>MainUI\BaseUI\UiMainPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiParadeItem.cpp">
+      <Filter>MainUI\BaseUI\UiMainPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiSelPlayerNearby.cpp">
+      <Filter>MainUI\BaseUI\UiMainPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiNewPlayer.cpp">
+      <Filter>MainUI\BaseUI\UiNewPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiSelNativePlace.cpp">
+      <Filter>MainUI\BaseUI\UiNewPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiSelPlayer.cpp">
+      <Filter>MainUI\BaseUI\UiNewPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiChatCentre.cpp">
+      <Filter>MainUI\BaseUI\UiChatCentre</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiChatPhrase.cpp">
+      <Filter>MainUI\BaseUI\UiChatCentre</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiChatRoom.cpp">
+      <Filter>MainUI\BaseUI\UiChatCentre</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiInformation.cpp">
+      <Filter>MainUI\BaseUI\UiInformation</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiInformation1.cpp">
+      <Filter>MainUI\BaseUI\UiInformation</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiInformation2.cpp">
+      <Filter>MainUI\BaseUI\UiInformation</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiTeamManage.cpp">
+      <Filter>MainUI\BaseUI\UiTeamManage</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiChatItem.cpp">
+      <Filter>MainUI\BaseUI\UiChatItem</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiHeaderControlBar.cpp">
+      <Filter>MainUI\BaseUI\UiChatItem</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\uicase\UiMsgCentrePad.cpp">
+      <Filter>MainUI\BaseUI\UiChatItem</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiRankData.cpp">
+      <Filter>MainUI\BaseUI\UiChatItem</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiToolsControlBar.cpp">
+      <Filter>MainUI\BaseUI\UiChatItem</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiPlayerShop.cpp">
+      <Filter>MainUI\BaseUI\UiPlayerShop</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiSetPrice.cpp">
+      <Filter>MainUI\BaseUI\UiPlayerShop</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UIcase\UiShop.cpp">
+      <Filter>MainUI\BaseUI\UiPlayerShop</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiSuperShop.cpp">
+      <Filter>MainUI\BaseUI\UiPlayerShop</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiTrade.cpp">
+      <Filter>MainUI\BaseUI\UiPlayerShop</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiTradeConfirmWnd.cpp">
+      <Filter>MainUI\BaseUI\UiPlayerShop</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiGame.cpp">
+      <Filter>MainUI\BaseUI\UiGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiSysMsgCentre.cpp">
+      <Filter>MainUI\BaseUI\UiSysMsgCentre</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiCaveList.cpp">
+      <Filter>MainUI\BaseUI\UiMiniMap</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\uicase\UiMiniMap.cpp">
+      <Filter>MainUI\BaseUI\UiMiniMap</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiSelColor.cpp">
+      <Filter>MainUI\BaseUI\UiSelColor</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiNewPlayerStartMsg.cpp">
+      <Filter>MainUI\BaseUI\UiNewPlayerStartMsg</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiHelper.cpp">
+      <Filter>MainUI\BaseUI\UiHelper</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiHelper2.cpp">
+      <Filter>MainUI\BaseUI\UiHelper</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiReconnect.cpp">
+      <Filter>MainUI\BaseUI\UiReconnect</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiTaskDataFile.cpp">
+      <Filter>MainUI\BaseUI\UiTask</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiTaskNote.cpp">
+      <Filter>MainUI\BaseUI\UiTask</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiWorldMap.cpp">
+      <Filter>MainUI\BaseUI\UiWorldMap</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiNewsMessage.cpp">
+      <Filter>MainUI\BaseUI\UiNewMessage</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiNewsMessage2.cpp">
+      <Filter>MainUI\BaseUI\UiNewMessage</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiNewsSysMsg.cpp">
+      <Filter>MainUI\BaseUI\UiNewMessage</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiStrengthRank.cpp">
+      <Filter>MainUI\BaseUI\UiStrengthRank</Filter>
+    </ClCompile>
+    <ClCompile Include="ui\uicase\UiTongAssignBox.cpp">
+      <Filter>MainUI\BaseUI\UiTong</Filter>
+    </ClCompile>
+    <ClCompile Include="ui\uicase\UiTongCreateSheet.cpp">
+      <Filter>MainUI\BaseUI\UiTong</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiTongGetString.cpp">
+      <Filter>MainUI\BaseUI\UiTong</Filter>
+    </ClCompile>
+    <ClCompile Include="ui\uicase\UiTongManager.cpp">
+      <Filter>MainUI\BaseUI\UiTong</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiEnchase.cpp">
+      <Filter>MainUI\BaseUI\UiEnchase</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiSoundSetting.cpp">
+      <Filter>MainUI\UiSoundSetting</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\GameSpaceChangedNotify.cpp">
+      <Filter>MainUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\ShortcutKey.cpp">
+      <Filter>MainUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiBase.cpp">
+      <Filter>MainUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiShell.cpp">
+      <Filter>MainUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\ChatFilter.cpp">
+      <Filter>S3Client</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\FilterTextLib.cpp">
+      <Filter>S3Client</Filter>
+    </ClCompile>
+    <ClCompile Include="S3Client.cpp">
+      <Filter>S3Client</Filter>
+    </ClCompile>
+    <ClCompile Include="NetConnect\NetConnectAgent.cpp">
+      <Filter>NetConnectAgent</Filter>
+    </ClCompile>
+    <ClCompile Include="Login\Login.cpp">
+      <Filter>Login</Filter>
+    </ClCompile>
+    <ClCompile Include="TextCtrlCmd\TextCtrlCmd.cpp">
+      <Filter>TextCtrlCmd</Filter>
+    </ClCompile>
+    <ClCompile Include="ErrorCode.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Ui\UiCase\UiTrembleItem.cpp">
+      <Filter>MainUI\BaseUI\UiTrembleItem</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiCompoundItem.cpp">
+      <Filter>MainUI\BaseUI\UiCompoundItem</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiGive.cpp">
+      <Filter>MainUI\BaseUI\UiGive</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\uicase\UiStoreBox.cpp">
+      <Filter>MainUI\BaseUI\UiStoreBox</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiGetMoney.cpp">
+      <Filter>MainUI\BaseUI\UiStoreBox</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiPlayerLock.cpp">
+      <Filter>MainUI\BaseUI\UiStoreBox</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiSkills.cpp">
+      <Filter>MainUI\BaseUI\UiSkill</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiSkillTree.cpp">
+      <Filter>MainUI\BaseUI\UiSkill</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiDaTau.cpp">
+      <Filter>MainUI\BaseUI\UiDaTau</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiProgressBarLoading.cpp">
+      <Filter>MainUI\BaseUI\UiDaTau</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiExpandItem.cpp">
+      <Filter>MainUI\BaseUI\UiItem</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiItem.cpp">
+      <Filter>MainUI\BaseUI\UiItem</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui\UiCase\UiBreakItem.cpp">
+      <Filter>MainUI\BaseUI\UiItem</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ui\Elem\AutoLocateWnd.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\ComWindow.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\MouseHover.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\PopupMenu.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\SpaceOver.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\SpecialFuncs.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\TextPic.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\UiCursor.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\UiImage.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndBorder.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndButton.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndEdit.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndGameSpace.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndImage.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndImagePart.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndLabeledButton.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndList.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndList2.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndMessage.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndMessageListBox.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndMovingImage.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndObjContainer.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndPage.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndPureTextBtn.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\Wnds.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndScrollBar.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\elem\WndShadow.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndShowAnimate.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndText.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndToolBar.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndValueImage.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\Elem\WndWindow.h">
+      <Filter>MainUI\WndCommand</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiConnectInfo.h">
+      <Filter>MainUI\BaseUI\UiConnectInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiLogin.h">
+      <Filter>MainUI\BaseUI\UiConnectInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiLoginBg.h">
+      <Filter>MainUI\BaseUI\UiConnectInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiNotice.h">
+      <Filter>MainUI\BaseUI\UiConnectInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiSelServer.h">
+      <Filter>MainUI\BaseUI\UiConnectInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiChooseFace.h">
+      <Filter>MainUI\BaseUI\UiPlayerControl</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiContainer.h">
+      <Filter>MainUI\BaseUI\UiPlayerControl</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiFaceSelector.h">
+      <Filter>MainUI\BaseUI\UiPlayerControl</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiPlayerBar.h">
+      <Filter>MainUI\BaseUI\UiPlayerControl</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiPlayerControlBar.h">
+      <Filter>MainUI\BaseUI\UiPlayerControl</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiStatus.h">
+      <Filter>MainUI\BaseUI\UiPlayerControl</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiOptions.h">
+      <Filter>MainUI\BaseUI\UiOption</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiInit.h">
+      <Filter>MainUI\BaseUI\UiInit</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiAutoPlay.h">
+      <Filter>MainUI\BaseUI\UiAutoPlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiESCDlg.h">
+      <Filter>MainUI\BaseUI\UiMainPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiGetString.h">
+      <Filter>MainUI\BaseUI\UiMainPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiMsgSel.h">
+      <Filter>MainUI\BaseUI\UiMainPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiParadeItem.h">
+      <Filter>MainUI\BaseUI\UiMainPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiSelPlayerNearby.h">
+      <Filter>MainUI\BaseUI\UiMainPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiNewPlayer.h">
+      <Filter>MainUI\BaseUI\UiNewPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiSelNativePlace.h">
+      <Filter>MainUI\BaseUI\UiNewPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiSelPlayer.h">
+      <Filter>MainUI\BaseUI\UiNewPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiChatCentre.h">
+      <Filter>MainUI\BaseUI\UiChatCentre</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiChatPhrase.h">
+      <Filter>MainUI\BaseUI\UiChatCentre</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiChatRoom.h">
+      <Filter>MainUI\BaseUI\UiChatCentre</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiInformation.h">
+      <Filter>MainUI\BaseUI\UiInformation</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiInformation1.h">
+      <Filter>MainUI\BaseUI\UiInformation</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiInformation2.h">
+      <Filter>MainUI\BaseUI\UiInformation</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiTeamManage.h">
+      <Filter>MainUI\BaseUI\UiTeamManage</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiChatItem.h">
+      <Filter>MainUI\BaseUI\UiChatItem</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiHeaderControlBar.h">
+      <Filter>MainUI\BaseUI\UiChatItem</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiMsgCentrePad.h">
+      <Filter>MainUI\BaseUI\UiChatItem</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiRankData.h">
+      <Filter>MainUI\BaseUI\UiChatItem</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiToolsControlBar.h">
+      <Filter>MainUI\BaseUI\UiChatItem</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiPlayerShop.h">
+      <Filter>MainUI\BaseUI\UiPlayerShop</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiSetPrice.h">
+      <Filter>MainUI\BaseUI\UiPlayerShop</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UIcase\UiShop.h">
+      <Filter>MainUI\BaseUI\UiPlayerShop</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiSuperShop.h">
+      <Filter>MainUI\BaseUI\UiPlayerShop</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiTrade.h">
+      <Filter>MainUI\BaseUI\UiPlayerShop</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiTradeConfirmWnd.h">
+      <Filter>MainUI\BaseUI\UiPlayerShop</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiGame.h">
+      <Filter>MainUI\BaseUI\UiGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiSysMsgCentre.h">
+      <Filter>MainUI\BaseUI\UiSysMsgCentre</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiCaveList.h">
+      <Filter>MainUI\BaseUI\UiMiniMap</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\uicase\UiMiniMap.h">
+      <Filter>MainUI\BaseUI\UiMiniMap</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiSelColor.h">
+      <Filter>MainUI\BaseUI\UiSelColor</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiNewPlayerStartMsg.h">
+      <Filter>MainUI\BaseUI\UiNewPlayerStartMsg</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiHelper.h">
+      <Filter>MainUI\BaseUI\UiHelper</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiHelper2.h">
+      <Filter>MainUI\BaseUI\UiHelper</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiReconnect.h">
+      <Filter>MainUI\BaseUI\UiReconnect</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiTaskDataFile.h">
+      <Filter>MainUI\BaseUI\UiTask</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiTaskNote.h">
+      <Filter>MainUI\BaseUI\UiTask</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiWorldMap.h">
+      <Filter>MainUI\BaseUI\UiWorldMap</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiNewsMessage.h">
+      <Filter>MainUI\BaseUI\UiNewMessage</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiNewsMessage2.h">
+      <Filter>MainUI\BaseUI\UiNewMessage</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiNewsSysMsg.h">
+      <Filter>MainUI\BaseUI\UiNewMessage</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiStrengthRank.h">
+      <Filter>MainUI\BaseUI\UiStrengthRank</Filter>
+    </ClInclude>
+    <ClInclude Include="ui\uicase\UiTongAssignBox.h">
+      <Filter>MainUI\BaseUI\UiTong</Filter>
+    </ClInclude>
+    <ClInclude Include="ui\uicase\UiTongCreateSheet.h">
+      <Filter>MainUI\BaseUI\UiTong</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiTongGetString.h">
+      <Filter>MainUI\BaseUI\UiTong</Filter>
+    </ClInclude>
+    <ClInclude Include="ui\uicase\UiTongManager.h">
+      <Filter>MainUI\BaseUI\UiTong</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiEnchase.h">
+      <Filter>MainUI\BaseUI\UiEnchase</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiSoundSetting.h">
+      <Filter>MainUI\UiSoundSetting</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\ShortcutKey.h">
+      <Filter>MainUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiBase.h">
+      <Filter>MainUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiShell.h">
+      <Filter>MainUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\ChatFilter.h">
+      <Filter>S3Client</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\FilterTextLib.h">
+      <Filter>S3Client</Filter>
+    </ClInclude>
+    <ClInclude Include="S3Client.h">
+      <Filter>S3Client</Filter>
+    </ClInclude>
+    <ClInclude Include="NetConnect\NetConnectAgent.h">
+      <Filter>NetConnectAgent</Filter>
+    </ClInclude>
+    <ClInclude Include="NetConnect\NetMsgTargetObject.h">
+      <Filter>NetConnectAgent</Filter>
+    </ClInclude>
+    <ClInclude Include="Login\Login.h">
+      <Filter>Login</Filter>
+    </ClInclude>
+    <ClInclude Include="Login\LoginDef.h">
+      <Filter>Login</Filter>
+    </ClInclude>
+    <ClInclude Include="TextCtrlCmd\TextCtrlCmd.h">
+      <Filter>TextCtrlCmd</Filter>
+    </ClInclude>
+    <ClInclude Include="ErrorCode.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="Ui\UiCase\UiTrembleItem.h">
+      <Filter>MainUI\BaseUI\UiTrembleItem</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiCompoundItem.h">
+      <Filter>MainUI\BaseUI\UiCompoundItem</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiGive.h">
+      <Filter>MainUI\BaseUI\UiGive</Filter>
+    </ClInclude>
+    <ClInclude Include="S3Config.h">
+      <Filter>S3Client</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\uicase\UiStoreBox.h">
+      <Filter>MainUI\BaseUI\UiStoreBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiGetMoney.h">
+      <Filter>MainUI\BaseUI\UiStoreBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiPlayerLock.h">
+      <Filter>MainUI\BaseUI\UiStoreBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiSkills.h">
+      <Filter>MainUI\BaseUI\UiSkill</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiSkillTree.h">
+      <Filter>MainUI\BaseUI\UiSkill</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiDaTau.h">
+      <Filter>MainUI\BaseUI\UiDaTau</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiProgressBarLoading.h">
+      <Filter>MainUI\BaseUI\UiDaTau</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiExpandItem.h">
+      <Filter>MainUI\BaseUI\UiItem</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiItem.h">
+      <Filter>MainUI\BaseUI\UiItem</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui\UiCase\UiBreakItem.h">
+      <Filter>MainUI\BaseUI\UiItem</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\Lib\debug\engine.lib">
+      <Filter>lib\debug</Filter>
+    </Library>
+    <Library Include="..\..\Lib\debug\CoreClient.lib">
+      <Filter>lib\debug</Filter>
+    </Library>
+    <Library Include="..\..\Lib\release\engine.lib">
+      <Filter>lib\release</Filter>
+    </Library>
+    <Library Include="..\..\Lib\release\CoreClient.lib">
+      <Filter>lib\release</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Script1.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="VLTK.ICO" />
+  </ItemGroup>
+</Project>

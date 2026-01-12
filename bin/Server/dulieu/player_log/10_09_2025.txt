@@ -1,0 +1,4 @@
+12:00:27	 Tµi kho¶n: kenny	 Nh©n vËt: Test01	 UUID: 4161587776	 CÊp: 	1	 M«n phái: 	 IP: 192.168.254.53 : 54862	 Xu: 0	 Tæng tiÒn v¹n: 	0
+17:36:37	 Tµi kho¶n: kenny	 Nh©n vËt: Test01	 UUID: 4161587776	 CÊp: 	150	 M«n phái: 	 IP: 192.168.254.53 : 58811	 Xu: 0	 Tæng tiÒn v¹n: 	10000000
+18:07:55	 Tµi kho¶n: kenny	 Nh©n vËt: DienBaQuan	 UUID: 2417408551	 CÊp: 	1	 M«n phái: 	 IP: 192.168.254.53 : 58872	 Xu: 0	 Tæng tiÒn v¹n: 	0
+21:46:02	 Tµi kho¶n: kenny	 Nh©n vËt: DienBaQuan	 UUID: 2417408551	 CÊp: 	150	 M«n phái: tangmen	 IP: 192.168.254.53 : 59936	 Xu: 0	 Tæng tiÒn v¹n: 	500000

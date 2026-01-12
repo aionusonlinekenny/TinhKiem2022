@@ -1,0 +1,192 @@
+
+*
+***** S3Relay Start (@ 2025/09/10 23:19:40.758) >>>>>
+*
+
+[2025/09/10 23:19:40] 1 -- Initializing ...
+[2025/09/10 23:19:40] 2 -- Create Channel: [Stock, GM] <00000000> GM
+[2025/09/10 23:19:40] 3 -- Create Channel: [Stock] <00000001>  ¿ΩÁ
+[2025/09/10 23:19:40] 4 -- friend timing update db: start
+[2025/09/10 23:19:40] 5 -- relay server startup
+[2025/09/10 23:19:40] 6 -- root client create: 192.168.254.53
+[2025/09/10 23:19:40] 7 -- DBRole client create: 192.168.254.53
+[2025/09/10 23:19:40] 8 -- root client close: 192.168.254.53
+[2025/09/10 23:19:40] 9 -- gateway client create: 192.168.254.53
+[2025/09/10 23:19:40] 10 -- host server startup
+[2025/09/10 23:19:40] 11 -- tong server startup
+[2025/09/10 23:19:40] 12 -- chat server startup
+[2025/09/10 23:19:40] 13 -- SockThread start success
+[2025/09/10 23:19:40] 14 -- tong database openning
+[2025/09/10 23:19:40] 15 -- ------------ nTongNum 0 ? -------------
+[2025/09/10 23:19:40] 16 -- tongset init ok ! Number Tong: 0
+[2025/09/10 23:19:40] 17 -- Initialize OK
+[2025/09/10 23:19:55] 18 -- host connect create: 192.168.254.53
+[2025/09/10 23:19:55] 19 -- chat connect create: 192.168.254.53
+[2025/09/10 23:19:55] 20 -- tong connect create: 192.168.254.53
+[2025/09/10 23:24:43] 21 -- update friend DB succeed
+[2025/09/10 23:29:43] 22 -- update friend DB succeed
+[2025/09/10 23:34:43] 23 -- update friend DB succeed
+[2025/09/10 23:39:43] 24 -- update friend DB succeed
+[2025/09/10 23:44:43] 25 -- update friend DB succeed
+[2025/09/10 23:49:43] 26 -- update friend DB succeed
+[2025/09/10 23:54:43] 27 -- update friend DB succeed
+[2025/09/10 23:59:43] 28 -- update friend DB succeed
+[2025/09/11 00:04:43] 29 -- update friend DB succeed
+[2025/09/11 00:09:43] 30 -- update friend DB succeed
+[2025/09/11 00:14:43] 31 -- update friend DB succeed
+[2025/09/11 00:19:43] 32 -- update friend DB succeed
+[2025/09/11 00:24:43] 33 -- update friend DB succeed
+[2025/09/11 00:29:43] 34 -- update friend DB succeed
+[2025/09/11 00:34:43] 35 -- update friend DB succeed
+[2025/09/11 00:39:43] 36 -- update friend DB succeed
+[2025/09/11 00:44:43] 37 -- update friend DB succeed
+[2025/09/11 00:49:43] 38 -- update friend DB succeed
+[2025/09/11 00:54:43] 39 -- update friend DB succeed
+[2025/09/11 00:59:43] 40 -- update friend DB succeed
+[2025/09/11 01:04:43] 41 -- update friend DB succeed
+[2025/09/11 01:09:43] 42 -- update friend DB succeed
+[2025/09/11 01:14:43] 43 -- update friend DB succeed
+[2025/09/11 01:19:43] 44 -- update friend DB succeed
+[2025/09/11 01:24:43] 45 -- update friend DB succeed
+[2025/09/11 01:29:43] 46 -- update friend DB succeed
+[2025/09/11 01:34:43] 47 -- update friend DB succeed
+[2025/09/11 01:39:44] 48 -- update friend DB succeed
+[2025/09/11 01:44:44] 49 -- update friend DB succeed
+[2025/09/11 01:49:44] 50 -- update friend DB succeed
+[2025/09/11 01:54:44] 51 -- update friend DB succeed
+[2025/09/11 01:59:44] 52 -- update friend DB succeed
+[2025/09/11 02:04:44] 53 -- update friend DB succeed
+[2025/09/11 02:09:44] 54 -- update friend DB succeed
+[2025/09/11 02:14:44] 55 -- update friend DB succeed
+[2025/09/11 02:19:44] 56 -- update friend DB succeed
+[2025/09/11 02:24:44] 57 -- update friend DB succeed
+[2025/09/11 02:29:44] 58 -- update friend DB succeed
+[2025/09/11 02:34:44] 59 -- update friend DB succeed
+[2025/09/11 02:39:44] 60 -- update friend DB succeed
+[2025/09/11 02:44:44] 61 -- update friend DB succeed
+[2025/09/11 02:49:44] 62 -- update friend DB succeed
+[2025/09/11 02:54:44] 63 -- update friend DB succeed
+[2025/09/11 02:59:44] 64 -- update friend DB succeed
+[2025/09/11 03:04:44] 65 -- update friend DB succeed
+[2025/09/11 03:09:44] 66 -- update friend DB succeed
+[2025/09/11 03:14:44] 67 -- update friend DB succeed
+[2025/09/11 03:19:44] 68 -- update friend DB succeed
+[2025/09/11 03:24:44] 69 -- update friend DB succeed
+[2025/09/11 03:29:44] 70 -- update friend DB succeed
+[2025/09/11 03:34:44] 71 -- update friend DB succeed
+[2025/09/11 03:39:44] 72 -- update friend DB succeed
+[2025/09/11 03:44:44] 73 -- update friend DB succeed
+[2025/09/11 03:49:44] 74 -- update friend DB succeed
+[2025/09/11 03:54:44] 75 -- update friend DB succeed
+[2025/09/11 03:59:44] 76 -- update friend DB succeed
+[2025/09/11 04:04:44] 77 -- update friend DB succeed
+[2025/09/11 04:09:44] 78 -- update friend DB succeed
+[2025/09/11 04:14:44] 79 -- update friend DB succeed
+[2025/09/11 04:19:44] 80 -- update friend DB succeed
+[2025/09/11 04:24:44] 81 -- update friend DB succeed
+[2025/09/11 04:29:44] 82 -- update friend DB succeed
+[2025/09/11 04:34:44] 83 -- update friend DB succeed
+[2025/09/11 04:39:44] 84 -- update friend DB succeed
+[2025/09/11 04:44:44] 85 -- update friend DB succeed
+[2025/09/11 04:49:44] 86 -- update friend DB succeed
+[2025/09/11 04:54:44] 87 -- update friend DB succeed
+[2025/09/11 04:59:44] 88 -- update friend DB succeed
+[2025/09/11 05:04:44] 89 -- update friend DB succeed
+[2025/09/11 05:09:44] 90 -- update friend DB succeed
+[2025/09/11 05:14:44] 91 -- update friend DB succeed
+[2025/09/11 05:19:44] 92 -- update friend DB succeed
+[2025/09/11 05:24:44] 93 -- update friend DB succeed
+[2025/09/11 05:29:44] 94 -- update friend DB succeed
+[2025/09/11 05:34:44] 95 -- update friend DB succeed
+[2025/09/11 05:39:44] 96 -- update friend DB succeed
+[2025/09/11 05:44:44] 97 -- update friend DB succeed
+[2025/09/11 05:49:44] 98 -- update friend DB succeed
+[2025/09/11 05:54:44] 99 -- update friend DB succeed
+[2025/09/11 05:59:44] 100 -- update friend DB succeed
+[2025/09/11 06:04:44] 101 -- update friend DB succeed
+[2025/09/11 06:09:44] 102 -- update friend DB succeed
+[2025/09/11 06:14:44] 103 -- update friend DB succeed
+[2025/09/11 06:19:44] 104 -- update friend DB succeed
+[2025/09/11 06:24:44] 105 -- update friend DB succeed
+[2025/09/11 06:29:44] 106 -- update friend DB succeed
+[2025/09/11 06:34:44] 107 -- update friend DB succeed
+[2025/09/11 06:39:44] 108 -- update friend DB succeed
+[2025/09/11 06:44:44] 109 -- update friend DB succeed
+[2025/09/11 06:49:44] 110 -- update friend DB succeed
+[2025/09/11 06:54:44] 111 -- update friend DB succeed
+[2025/09/11 06:59:44] 112 -- update friend DB succeed
+[2025/09/11 07:04:44] 113 -- update friend DB succeed
+[2025/09/11 07:09:44] 114 -- update friend DB succeed
+[2025/09/11 07:14:44] 115 -- update friend DB succeed
+[2025/09/11 07:19:44] 116 -- update friend DB succeed
+[2025/09/11 07:24:44] 117 -- update friend DB succeed
+[2025/09/11 07:29:44] 118 -- update friend DB succeed
+[2025/09/11 07:34:44] 119 -- update friend DB succeed
+[2025/09/11 07:39:44] 120 -- update friend DB succeed
+[2025/09/11 07:44:44] 121 -- update friend DB succeed
+[2025/09/11 07:49:44] 122 -- update friend DB succeed
+[2025/09/11 07:54:44] 123 -- update friend DB succeed
+[2025/09/11 07:59:44] 124 -- update friend DB succeed
+[2025/09/11 08:04:44] 125 -- update friend DB succeed
+[2025/09/11 08:09:44] 126 -- update friend DB succeed
+[2025/09/11 08:14:44] 127 -- update friend DB succeed
+[2025/09/11 08:19:44] 128 -- update friend DB succeed
+[2025/09/11 08:24:44] 129 -- update friend DB succeed
+[2025/09/11 08:29:44] 130 -- update friend DB succeed
+[2025/09/11 08:34:44] 131 -- update friend DB succeed
+[2025/09/11 08:39:44] 132 -- update friend DB succeed
+[2025/09/11 08:44:44] 133 -- update friend DB succeed
+[2025/09/11 08:49:44] 134 -- update friend DB succeed
+[2025/09/11 08:54:44] 135 -- update friend DB succeed
+[2025/09/11 08:59:44] 136 -- update friend DB succeed
+[2025/09/11 09:04:44] 137 -- update friend DB succeed
+[2025/09/11 09:09:44] 138 -- update friend DB succeed
+[2025/09/11 09:14:44] 139 -- update friend DB succeed
+[2025/09/11 09:19:44] 140 -- update friend DB succeed
+[2025/09/11 09:24:44] 141 -- update friend DB succeed
+[2025/09/11 09:29:44] 142 -- update friend DB succeed
+[2025/09/11 09:34:44] 143 -- update friend DB succeed
+[2025/09/11 09:39:44] 144 -- update friend DB succeed
+[2025/09/11 09:44:44] 145 -- update friend DB succeed
+[2025/09/11 09:49:44] 146 -- update friend DB succeed
+[2025/09/11 09:54:44] 147 -- update friend DB succeed
+[2025/09/11 09:59:44] 148 -- update friend DB succeed
+[2025/09/11 10:04:44] 149 -- update friend DB succeed
+[2025/09/11 10:09:44] 150 -- update friend DB succeed
+[2025/09/11 10:14:44] 151 -- update friend DB succeed
+[2025/09/11 10:19:44] 152 -- update friend DB succeed
+[2025/09/11 10:24:44] 153 -- update friend DB succeed
+[2025/09/11 10:29:44] 154 -- update friend DB succeed
+[2025/09/11 10:34:44] 155 -- update friend DB succeed
+[2025/09/11 10:39:44] 156 -- update friend DB succeed
+[2025/09/11 10:44:44] 157 -- update friend DB succeed
+[2025/09/11 10:49:44] 158 -- update friend DB succeed
+[2025/09/11 10:54:44] 159 -- update friend DB succeed
+[2025/09/11 10:59:44] 160 -- update friend DB succeed
+[2025/09/11 11:04:44] 161 -- update friend DB succeed
+[2025/09/11 11:09:44] 162 -- update friend DB succeed
+[2025/09/11 11:14:44] 163 -- update friend DB succeed
+[2025/09/11 11:19:44] 164 -- update friend DB succeed
+[2025/09/11 11:24:44] 165 -- update friend DB succeed
+[2025/09/11 11:29:44] 166 -- update friend DB succeed
+[2025/09/11 11:34:44] 167 -- update friend DB succeed
+[2025/09/11 11:39:44] 168 -- update friend DB succeed
+[2025/09/11 11:44:44] 169 -- update friend DB succeed
+[2025/09/11 11:49:44] 170 -- update friend DB succeed
+[2025/09/11 11:54:44] 171 -- update friend DB succeed
+[2025/09/11 11:59:44] 172 -- update friend DB succeed
+[2025/09/11 12:04:44] 173 -- update friend DB succeed
+[2025/09/11 12:09:44] 174 -- update friend DB succeed
+[2025/09/11 12:14:44] 175 -- update friend DB succeed
+[2025/09/11 12:19:44] 176 -- update friend DB succeed
+[2025/09/11 12:24:44] 177 -- update friend DB succeed
+[2025/09/11 12:29:44] 178 -- update friend DB succeed
+[2025/09/11 12:34:44] 179 -- update friend DB succeed
+[2025/09/11 12:39:44] 180 -- update friend DB succeed
+[2025/09/11 12:44:44] 181 -- update friend DB succeed
+[2025/09/11 12:49:44] 182 -- update friend DB succeed
+[2025/09/11 12:54:44] 183 -- update friend DB succeed
+[2025/09/11 12:59:44] 184 -- update friend DB succeed
+[2025/09/11 13:04:44] 185 -- update friend DB succeed
+[2025/09/11 13:09:44] 186 -- update friend DB succeed
+[2025/09/11 13:14:44] 187 -- update friend DB succeed

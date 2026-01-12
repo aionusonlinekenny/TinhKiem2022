@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<JxStudio>
+	<config LastProfile="JxStudio_Cyberteam.xml" ServerPath="D:\01.tinh-kiem-vs2022\bin\Server\">
+		<fileEdit FontName="Courier New" FontSize="9"/>
+		<itemEdit LastTitle="2" FixFirstCol="false" DisplayOrigValue="false"/>
+	</config>
+	<files>
+		<buysell FileName="Settings\buysell.txt" Desc="File định nghĩa các shop và các vật phẩm bày bán trong shop. Mở shop bằng hàm Sale(id)"/>
+		<goods FileName="Settings\goods.txt" Desc="Danh sách các vật phẩm được phép bày bán trong shop. Nghĩa là được phép khai báo trong buysell.txt"/>
+		<magicdesc FileName="Settings\MagicDesc.ini" Desc="Chứa các dòng text mô tả (việt hóa) các thuộc tính của skill và trang bị"/>
+		<maplist FileName="Settings\MapList.ini" Desc="Danh sách ID và đường dẫn đến các map"/>
+		<missles FileName="Settings\Missles.txt" Desc="Chứa các hiệu ứng của skill"/>
+		<nativeplacelist FileName="Settings\NativePlaceList.ini" Desc="Danh sách 7 thôn nơi nhân vật sinh ra khi được tạo"/>
+		<npcs FileName="Settings\NpcS.txt" Desc="Danh sách các Npc"/>
+		<skills FileName="Settings\Skills.txt" Desc="Danh sách võ công (skill)"/>
+		<stringresource FileName="Settings\StringResource.txt" Desc="Chứa lời thoại của nhân vật"/>
+		<timertask FileName="Settings\TimerTask.txt" Desc="Danh sách các timer task, là các sự kiện được định giờ để thực thi. File này chứa id của task và file script khi thực thi"/>
+	</files>
+	<items/>
+</JxStudio>

@@ -1,0 +1,67 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: KLVideo - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPACE0.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "NDEBUG" /D "WIN32" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "__RADINDLL__" /D "KLVIDEO_EXPORTS" /Fp"Release/KLVideo.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"F:\天骄\JX_Source\Sources\KLVideo\KLAviFile.cpp"
+"F:\天骄\JX_Source\Sources\KLVideo\KLCFile.cpp"
+"F:\天骄\JX_Source\Sources\KLVideo\KLMp3Music.cpp"
+"F:\天骄\JX_Source\Sources\KLVideo\KLMp4Audio.cpp"
+"F:\天骄\JX_Source\Sources\KLVideo\KLMp4Video.cpp"
+"F:\天骄\JX_Source\Sources\KLVideo\KLMusic.cpp"
+"F:\天骄\JX_Source\Sources\KLVideo\KLThread.cpp"
+"F:\天骄\JX_Source\Sources\KLVideo\KLVideo.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPACE0.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPACE1.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "NDEBUG" /D "WIN32" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "__RADINDLL__" /D "KLVIDEO_EXPORTS" /Fp"Release/KLVideo.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"F:\天骄\JX_Source\Sources\KLVideo\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPACE1.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPACF2.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Winmm.lib dsound.lib dxguid.lib /nologo /dll /incremental:no /pdb:"Release/KLVideo.pdb" /machine:I386 /out:"Release/KLVideo.dll" /implib:"Release/KLVideo.lib" 
+".\Release\KLAviFile.obj"
+".\Release\KLCFile.obj"
+".\Release\KLMp3Music.obj"
+".\Release\KLMp4Audio.obj"
+".\Release\KLMp4Video.obj"
+".\Release\KLMusic.obj"
+".\Release\KLThread.obj"
+".\Release\KLVideo.obj"
+".\Release\StdAfx.obj"
+"..\..\Lib\decore.lib"
+"..\..\Lib\mp3lib.lib"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPACF2.tmp"
+<h3>Output Window</h3>
+Compiling...
+StdAfx.cpp
+Compiling...
+KLAviFile.cpp
+KLCFile.cpp
+KLMp3Music.cpp
+KLMp4Audio.cpp
+KLMp4Video.cpp
+KLMusic.cpp
+KLThread.cpp
+KLVideo.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file "..\..\Lib\decore.lib"
+执行 link.exe 时出错.
+
+
+
+<h3>Results</h3>
+KLVideo.dll - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

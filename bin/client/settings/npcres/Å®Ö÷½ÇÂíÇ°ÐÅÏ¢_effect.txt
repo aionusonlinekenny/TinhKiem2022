@@ -1,0 +1,81 @@
+EqName	SwordShieldWFreeStand	ShieldSwordWFreeStand	FreeStand1	FreeStand2	FreeStand3	MeleeWStand	RangeWStand	DoubleWStand	SwordShieldWStand	ShieldSwordWStand	GuqinWStand1	GuqinWStand2	FreeWalk	NormalWalk	MeleeWWalk	RangeWWalk	DoubleWWalk	SwordShieldWWalk	ShieldSwordWWalk	GuqinWWalk	FreeRun	NormalRun	MeleeWRun	RangeWRun	DoubleWRun	SwordShieldWRun	ShieldSwordWRun	GuqinWRun	FreeWound	MeleeWWound	RangeWWound	DoubleWWound	SwordShieldWWound	ShieldSwordWWound	GuqinWWound	FreeDie	MeleeWDie	RangeWDie	DoubleWDie	SwordShieldWDie	ShieldSwordWDie	GuqinWDie	FreeAttack	MeleeWPuncture	MeleeWCut	RangeWPuncture	RangeWCut	DoubleWPull	DoubleWPound	SwordShieldWChop	SwordShieldWCut	ShieldSwordWChop	ShieldSwordWCut	GuqinWPuncture	GuqinWCut	DartThrow	FreeMagic	MeleeWMagic	RangeWMagic	DoubleWMagic	SwordShieldWMagic	ShieldSwordWMagic	GuqinWMagic	SitDown	Jump	RideStand	RideWalk	RideRun	RideCut	RidePuncture	RideMagic	RideWound	RideDie	RideStand1	RideStand2
+XÝch Thè																																																																											
+ChiÕu D¹																																																																											
+TuyÖt µnh																																																																											
+Ngùa ®en																																																																											
+Ngùa x¸m xanh																																																																											
+Ngùa bêm b¹c																																																																											
+Ngùa 7																																																																											
+Tøc S­¬ng																																																																											
+Ngùa 9																																																																											
+Ngùa ®Çu bäc thÐp																																																																											
+B«n Tiªu																																																																											
+Phiªn Vò																																																																											
+Phi V©n																																																																											
+XÝch Long C©u																																																																											
+Kh«ng cã																																																																											
+XÝch Long C©u mÆt tr¾ng																																																																											
+Kh«ng cã																																																																											
+Siªu Quang																																																																											
+Cäp tr¾ng x¸m																																																																											
+Cäp vµng																																																																											
+Trïng 20																																																																											
+Cäp ®en																																																																											
+H·n HuyÕt																																																																		20,1,30	20,1,30	20,1,30	20,1,30	20,1,30	20,1,30	20,1,30	20,1,30	20,1,30	20,1,30
+S­ tö tr¾ng																																																																											
+L¹c ®µ 2 b­íu																																																																											
+D­¬ng §µ xanh																																																																											
+Nai gi¸ng sinh nhá																																																																											
+Ngùa HK xanh																																																																											
+Ngùa HK hång																																																																											
+Ngùa HK vµng																																																																											
+Ngùa HK ®en																																																																											
+Kh«ng cã																																																																											
+Kh«ng cã																																																																											
+Kh«ng cã																																																																											
+ChiÕn Lang																																																																											
+Heo Rõng																																																																											
+ThiÕt M·																																																																											
+C¸o Hång																																																																											
+C¸o Xanh																																																																											
+C¸o §en																																																																											
+Tr©u vµng																																																																											
+Tr©u Tr¾ng																																																																											
+Tr©u Sõng §en																																																																											
+Tr©u Sõng Vµng																																																																											
+Tr©u Sõng Xanh																																																																											
+TuÇn Léc TuyÕt																																																																											
+Cäp Xanh																																																																											
+Cäp §á Vµng																																																																											
+Cäp Löa																																																																		112,8,1	96,8,1	80,8,1	96,8,1	112,8,1	96,8,1	48,8,1	112,8,1	112,8,1	112,8,1
+Thá																																																																											
+GT																																																																		112,8,1	96,8,1	80,8,1	96,8,1	112,8,1	96,8,1	48,8,1	112,8,1	112,8,1	112,8,1
+Heo																																																																											
+Cäp d©y vµng to																																																																											
+Cäp tr¾ng to																																																																											
+S­ tö ®á																																																																											
+S­ tö hoµng kim																																																																											
+S­ tö ®en																																																																											
+S­ tö vµng to																																																																											
+S­ tö tr¾ng to																																																																											
+S­ tö tr¾ng ®á																																																																											
+S­ tö xanh ®en																																																																											
+Nai gi¸ng sinh to																																																																											
+Voi																																																																											
+Ngùa cao 																																																																											
+Ngùa ®¸m c­íi																																																																											
+Ngùa s¾t vµng																																																																											
+Ngùa ®en sõng ®á																																																																											
+Ngùa ®ãng b¨ng																																																																											
+Cõu tr¾ng tÝm																																																																											
+Cõu vµng																																																																											
+ThiÕt M· Xanh §en																																																																											
+ThiÕt M· s¾t to																																																																											
+C¸o hång to																																																																											
+C¸o tr¾ng to																																																																											
+C¸o ®en to																																																																											
+K× l©n ®en																																																																											
+K× l©n sø																																																																											
+K× l©n - rång tr¨ng																																																																											
+GÊu bäc thÐp																																																																											
+L¹c ®µ n©u																																																																											
